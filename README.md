@@ -138,7 +138,7 @@ Membangun ekosistem Warceu yang terstruktur, kolaboratif, dan siap terintegrasi 
 
 ## 📜 License
 
-Tentukan license sesuai kebutuhan (MIT disarankan untuk kolaborasi terbuka).
+
 
 ```
 WPCL(v1.0) License
