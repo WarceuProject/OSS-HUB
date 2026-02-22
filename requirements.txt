@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pillow
+numpy
+torch
+torchvision
+opencv-python
+realesrgan
+gfpgan
+python-multipart
