@@ -56,6 +56,7 @@ OSS-HUB/
 ## Contribution Guidelines
 
 1. Fork or clone this repository  
+   ⚠️ When forking, **do not change the default repository name**. Keep it as `OSS-HUB`.
 2. Create a new branch using **lowercase only**, no camelCase, no spaces, no special characters except `-`:
 
    ```
