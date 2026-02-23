@@ -1,4 +1,4 @@
-##Image Metadata Extractor (IME)
+## Image Metadata Extractor (IME)
 
 📸 Image Metadata Extractor API adalah REST API berbasis Flask untuk mengekstrak metadata gambar (EXIF), melakukan analisis statistik sederhana, serta memberikan indikasi kemungkinan gambar telah dimodifikasi.
 
@@ -6,7 +6,7 @@ API ini ringan dan hanya menggunakan Pillow + Piexif (tanpa OpenCV).
 
 ---
 
-##✨ Fitur
+## ✨ Fitur
 
 - Ekstraksi metadata EXIF (Make, Model, Timestamp, dll)
 - Konversi koordinat GPS ke latitude & longitude desimal
@@ -27,7 +27,7 @@ API ini ringan dan hanya menggunakan Pillow + Piexif (tanpa OpenCV).
 
 ---
 
-📥 Instalasi
+## 📥 Instalasi
 
 «Penting: "app.py" berada di branch "Lilith-VnK-patch-1" dan di dalam folder "IME/".»
 
