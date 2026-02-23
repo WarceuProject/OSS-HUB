@@ -1,0 +1,2460 @@
+{
+  "filename": "bintang MAKALAH.pdf",
+  "total_pages": 21,
+  "pages": [
+    {
+      "page": 1,
+      "text": "MAKALAH Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika UNH UNIVERSITASE NURDIN HAMZAHE Dosen Pengampu : M. Hasbi S.Ag.M.Pd Mata Kuliah : Pendidikan Pancasila Prodi : Ilmu Komunikasi Kelompok 6 : 1.Bintang Fernando 2. M. Sahid Zahid",
+      "lines": [
+        {
+          "text": "MAKALAH",
+          "confidence": 0.9983640313148499
+        },
+        {
+          "text": "Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika",
+          "confidence": 0.9891165494918823
+        },
+        {
+          "text": "UNH",
+          "confidence": 0.8366182446479797
+        },
+        {
+          "text": "UNIVERSITASE",
+          "confidence": 0.9333412051200867
+        },
+        {
+          "text": "NURDIN HAMZAHE",
+          "confidence": 0.9201234579086304
+        },
+        {
+          "text": "Dosen Pengampu : M. Hasbi S.Ag.M.Pd",
+          "confidence": 0.9950970411300659
+        },
+        {
+          "text": "Mata Kuliah : Pendidikan Pancasila",
+          "confidence": 0.9936701655387878
+        },
+        {
+          "text": "Prodi : Ilmu Komunikasi",
+          "confidence": 0.9812503457069397
+        },
+        {
+          "text": "Kelompok 6 :",
+          "confidence": 0.9991840720176697
+        },
+        {
+          "text": "1.Bintang Fernando",
+          "confidence": 0.9998971223831177
+        },
+        {
+          "text": "2. M. Sahid Zahid",
+          "confidence": 0.9773229956626892
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "KATA PENGHANTAR Puji syukur penulis panjatkan ke hadirat Tuhan Yang Maha Esa karena atas limpahan rahmat, taufik, dan hidayah-Nya, penulis dapat menyelesaikan makalah yang berjudul \"Pancasila sebagai Dasar Pengembangan Ilmu dan Sistem Etika\" dengan baik dan tepat waktu. Makalah ini disusun sebagai salah satu bentuk upaya untuk memahami secara mendalam kedudukan Pancasila, tidak hanya sebagai dasar negara, tetapi juga sebagai pedoman moral, landasan filosofis, serta arah dalam pengembangan ilmu pengetahuan di Indonesia. Dalam proses penyusunan makalah ini, penulis berusaha menggambarkan bagaimana. nilai-nilai yang terkandung dalam Pancasila dapat menjadi fondasi bagi perkembangan ilmu pengetahuan yang beretika, berkeadilan, dan berkepribadian Indonesia. Di tengah arus globalisasi dan kemajuan teknologi yang pesat, bangsa Indonesia perlu tetap berpegang pada nilai-nilai luhur Pancasila agar kemajuan ilmu tidak mengabaikan aspek kemanusiaan, moral, dan spiritualitas. Dengan demikian, ilmu pengetahuan yang berkembang tidak hanya berorientasi pada kemajuan material semata, tetapi juga memperhatikan nilai-nilai kemanusiaan dan kebangsaan. Penulis menyadari bahwa dalam penyusunan makalah ini masih terdapat berbagai. kekurangan, baik dalam hal isi, bahasa, maupun penyajian. Oleh karena itu, penulis dengan rendah hati menerima segala bentuk saran dan kritik yang membangun demi penyempurnaan karya ini di masa yang akan datang. Ucapan terima kasih yang sebesar-besarnya penulis sampaikan kepada semua pihak. yang telah memberikan dukungan, bimbingan, dan bantuan, baik secara langsung maupun tidak langsung, dalam penyusunan makalah ini. Tanpa bantuan dan dorongan dari berbagai pihak, makalah ini tentu tidak dapat terselesaikan dengan baik. Akhirnya, penulis berharap semoga makalah ini dapat memberikan manfaat, menambah. wawasan, serta menjadi bahan refleksi bagi kita semua mengenai pentingnya Pancasila sebagai dasar pengembangan ilmu dan sistem etika dalam kehidupan berbangsa dan bernegara. 2",
+      "lines": [
+        {
+          "text": "KATA PENGHANTAR",
+          "confidence": 0.998714029788971
+        },
+        {
+          "text": "Puji syukur penulis panjatkan ke hadirat Tuhan Yang Maha Esa karena atas limpahan",
+          "confidence": 0.9963955283164978
+        },
+        {
+          "text": "rahmat, taufik, dan hidayah-Nya, penulis dapat menyelesaikan makalah yang berjudul",
+          "confidence": 0.9953415989875793
+        },
+        {
+          "text": "\"Pancasila sebagai Dasar Pengembangan Ilmu dan Sistem Etika\" dengan baik dan tepat",
+          "confidence": 0.9864639639854431
+        },
+        {
+          "text": "waktu. Makalah ini disusun sebagai salah satu bentuk upaya untuk memahami secara mendalam",
+          "confidence": 0.9949025511741638
+        },
+        {
+          "text": "kedudukan Pancasila, tidak hanya sebagai dasar negara, tetapi juga sebagai pedoman moral,",
+          "confidence": 0.9980169534683228
+        },
+        {
+          "text": "landasan filosofis, serta arah dalam pengembangan ilmu pengetahuan di Indonesia.",
+          "confidence": 0.995782732963562
+        },
+        {
+          "text": "Dalam proses penyusunan makalah ini, penulis berusaha menggambarkan bagaimana.",
+          "confidence": 0.98138827085495
+        },
+        {
+          "text": "nilai-nilai yang terkandung dalam Pancasila dapat menjadi fondasi bagi perkembangan ilmu",
+          "confidence": 0.9939054846763611
+        },
+        {
+          "text": "pengetahuan yang beretika, berkeadilan, dan berkepribadian Indonesia. Di tengah arus",
+          "confidence": 0.9941868782043457
+        },
+        {
+          "text": "globalisasi dan kemajuan teknologi yang pesat, bangsa Indonesia perlu tetap berpegang pada",
+          "confidence": 0.9983162879943848
+        },
+        {
+          "text": "nilai-nilai luhur Pancasila agar kemajuan ilmu tidak mengabaikan aspek kemanusiaan, moral,",
+          "confidence": 0.9991487860679626
+        },
+        {
+          "text": "dan spiritualitas. Dengan demikian, ilmu pengetahuan yang berkembang tidak hanya",
+          "confidence": 0.9953380823135376
+        },
+        {
+          "text": "berorientasi pada kemajuan material semata, tetapi juga memperhatikan nilai-nilai kemanusiaan",
+          "confidence": 0.9996556043624878
+        },
+        {
+          "text": "dan kebangsaan.",
+          "confidence": 0.9827735424041748
+        },
+        {
+          "text": "Penulis menyadari bahwa dalam penyusunan makalah ini masih terdapat berbagai.",
+          "confidence": 0.9852824807167053
+        },
+        {
+          "text": "kekurangan, baik dalam hal isi, bahasa, maupun penyajian. Oleh karena itu, penulis dengan",
+          "confidence": 0.9944224953651428
+        },
+        {
+          "text": "rendah hati menerima segala bentuk saran dan kritik yang membangun demi penyempurnaan",
+          "confidence": 0.9991713762283325
+        },
+        {
+          "text": "karya ini di masa yang akan datang.",
+          "confidence": 0.9960860013961792
+        },
+        {
+          "text": "Ucapan terima kasih yang sebesar-besarnya penulis sampaikan kepada semua pihak.",
+          "confidence": 0.9917815923690796
+        },
+        {
+          "text": "yang telah memberikan dukungan, bimbingan, dan bantuan, baik secara langsung maupun tidak",
+          "confidence": 0.9958650469779968
+        },
+        {
+          "text": "langsung, dalam penyusunan makalah ini. Tanpa bantuan dan dorongan dari berbagai pihak,",
+          "confidence": 0.994605302810669
+        },
+        {
+          "text": "makalah ini tentu tidak dapat terselesaikan dengan baik.",
+          "confidence": 0.9993128776550293
+        },
+        {
+          "text": "Akhirnya, penulis berharap semoga makalah ini dapat memberikan manfaat, menambah.",
+          "confidence": 0.993071973323822
+        },
+        {
+          "text": "wawasan, serta menjadi bahan refleksi bagi kita semua mengenai pentingnya Pancasila sebagai",
+          "confidence": 0.9943894743919373
+        },
+        {
+          "text": "dasar pengembangan ilmu dan sistem etika dalam kehidupan berbangsa dan bernegara.",
+          "confidence": 0.9957689642906189
+        },
+        {
+          "text": "2",
+          "confidence": 0.7516085505485535
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "BAB I PENDAHULUAN Pancasila memiliki kedudukan yang sangat penting dalam kehidupan berbangsa dan bernegara. Sebagai dasar negara dan sumber dari segala hukum, Pancasila tidak hanya menjadi pedoman dalam penyelenggaraan kehidupan bernegara, tetapi juga menjadi landasan filosofis dalam pengembangan ilmu pengetahuan dan sistem etika di Indonesia. Melalui nilai-nilainya, Pancasila mengarahkan perkembangan ilmu agar senantiasa berpijak pada moralitas,  kemanusiaan, dan keadilan sosial. Di era globalisasi dan kemajuan teknologi yang begitu pesat,. ilmu pengetahuan berkembang sangat cepat hingga terkadang terlepas dari nilai-nilai etika dan kemanusiaan. Dalam konteks ini, Pancasila berperan penting sebagai penuntun agar kemajuan ilmu tidak hanya berorientasi pada aspek material dan rasionalitas, tetapi juga memperhatikan dimensi spiritual, budaya, dan moral bangsa Indonesia.. Nilai budaya dan agama turut berperan dalam membentuk arah pengembangan ilmu Budaya mendorong kreativitas dan keterbukaan berpikir, sedangkan agama memberikan dasar moral dan spiritual agar ilmu digunakan secara bijak dan bertanggung jawab. Keduanya saling melengkapi dalam menciptakan keseimbangan antara kemajuan intelektual dan kedewasaan moral. Dengan menjadikan Pancasila sebagai dasar pengembangan ilmu dan sistem etika, bangsa Indonesia dapat mengembangkan ilmu pengetahuan yang maju tanpa kehilangan jati diri. Pancasila menjadi jembatan yang menghubungkan kemajuan rasional dengan nilai-nilai kemanusiaan, sehingga ilmu pengetahuan dapat benar-benar berfungsi untuk mewujudkan masyarakat yang adil, beradab, dan berkepribadian luhur sesuai cita-cita bangsa Indonesia.",
+      "lines": [
+        {
+          "text": "BAB I",
+          "confidence": 0.8739344477653503
+        },
+        {
+          "text": "PENDAHULUAN",
+          "confidence": 0.9988603591918945
+        },
+        {
+          "text": "Pancasila memiliki kedudukan yang sangat penting dalam kehidupan berbangsa dan",
+          "confidence": 0.9979872107505798
+        },
+        {
+          "text": "bernegara. Sebagai dasar negara dan sumber dari segala hukum, Pancasila tidak hanya menjadi",
+          "confidence": 0.9924081563949585
+        },
+        {
+          "text": "pedoman dalam penyelenggaraan kehidupan bernegara, tetapi juga menjadi landasan filosofis",
+          "confidence": 0.9962279796600342
+        },
+        {
+          "text": "dalam pengembangan ilmu pengetahuan dan sistem etika di Indonesia. Melalui nilai-nilainya,",
+          "confidence": 0.9989804625511169
+        },
+        {
+          "text": "Pancasila mengarahkan perkembangan ilmu agar senantiasa berpijak pada moralitas,",
+          "confidence": 0.9979521036148071
+        },
+        {
+          "text": " kemanusiaan, dan keadilan sosial. Di era globalisasi dan kemajuan teknologi yang begitu pesat,.",
+          "confidence": 0.988320529460907
+        },
+        {
+          "text": "ilmu pengetahuan berkembang sangat cepat hingga terkadang terlepas dari nilai-nilai etika dan",
+          "confidence": 0.9992082118988037
+        },
+        {
+          "text": "kemanusiaan. Dalam konteks ini, Pancasila berperan penting sebagai penuntun agar kemajuan",
+          "confidence": 0.994642436504364
+        },
+        {
+          "text": "ilmu tidak hanya berorientasi pada aspek material dan rasionalitas, tetapi juga memperhatikan",
+          "confidence": 0.9848674535751343
+        },
+        {
+          "text": "dimensi spiritual, budaya, dan moral bangsa Indonesia..",
+          "confidence": 0.9909526705741882
+        },
+        {
+          "text": "Nilai budaya dan agama turut berperan dalam membentuk arah pengembangan ilmu",
+          "confidence": 0.9962055683135986
+        },
+        {
+          "text": "Budaya mendorong kreativitas dan keterbukaan berpikir, sedangkan agama memberikan dasar",
+          "confidence": 0.9995294213294983
+        },
+        {
+          "text": "moral dan spiritual agar ilmu digunakan secara bijak dan bertanggung jawab. Keduanya saling",
+          "confidence": 0.9975678324699402
+        },
+        {
+          "text": "melengkapi dalam menciptakan keseimbangan antara kemajuan intelektual dan kedewasaan",
+          "confidence": 0.9862875938415527
+        },
+        {
+          "text": "moral. Dengan menjadikan Pancasila sebagai dasar pengembangan ilmu dan sistem etika,",
+          "confidence": 0.9908869862556458
+        },
+        {
+          "text": "bangsa Indonesia dapat mengembangkan ilmu pengetahuan yang maju tanpa kehilangan jati",
+          "confidence": 0.998023509979248
+        },
+        {
+          "text": "diri. Pancasila menjadi jembatan yang menghubungkan kemajuan rasional dengan nilai-nilai",
+          "confidence": 0.9977047443389893
+        },
+        {
+          "text": "kemanusiaan, sehingga ilmu pengetahuan dapat benar-benar berfungsi untuk mewujudkan",
+          "confidence": 0.9968351721763611
+        },
+        {
+          "text": "masyarakat yang adil, beradab, dan berkepribadian luhur sesuai cita-cita bangsa Indonesia.",
+          "confidence": 0.9938870072364807
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "DAFTAR ISI KATA PENGHANTAR BAB I PENDAHULUAN.. BAB II..  PENGERTIAN PANCASILA. 1.  Pengertian Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika... A.  Pengertian Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan B. Agama ... Pengertian Perkembangan Ilmu Bersentuhan Dengan Budaya dan Agama... c  Pengertian Kaitan Perkembangan Keilmuan dan Dampaknya Terhadap Nilai Budaya dan D. Agama Dalam Hidup Sehari-hari .. BAB III. .10 PEMBAHASAN .. .10 1.  Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika  10 A. Pancasila Sebagai Dasar Negara . .10 B.  Pancasila dalam Pengembangan Ilmu Pengetahuan .... 11 Pancasila sebagai Sistem Etika. 12 C.  Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan Agama ..... 2. ..... 13 3.  Perkembangan Ilmu Bersentuhan dengan Budaya dan Agama .. .14 4. Kaitan Perkembangan Keilmuan dan Dampaknya terhadap Nilai Budaya dan Agama dalam Hidup Sehari-hari ... .15 BAB IV .16 PENUTUP 16 KESIMPULAN 16 DAFTAR PUSTAKA.",
+      "lines": [
+        {
+          "text": "DAFTAR ISI",
+          "confidence": 0.991752028465271
+        },
+        {
+          "text": "KATA PENGHANTAR",
+          "confidence": 0.9994552135467529
+        },
+        {
+          "text": "BAB I",
+          "confidence": 0.9788629412651062
+        },
+        {
+          "text": "PENDAHULUAN..",
+          "confidence": 0.9980105757713318
+        },
+        {
+          "text": "BAB II..",
+          "confidence": 0.967069149017334
+        },
+        {
+          "text": " PENGERTIAN PANCASILA.",
+          "confidence": 0.9807321429252625
+        },
+        {
+          "text": "1.",
+          "confidence": 0.7922182083129883
+        },
+        {
+          "text": " Pengertian Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika...",
+          "confidence": 0.9805949926376343
+        },
+        {
+          "text": "A.",
+          "confidence": 0.9994415640830994
+        },
+        {
+          "text": " Pengertian Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan",
+          "confidence": 0.9886206388473511
+        },
+        {
+          "text": "B.",
+          "confidence": 0.9988048076629639
+        },
+        {
+          "text": "Agama ...",
+          "confidence": 0.9533982872962952
+        },
+        {
+          "text": "Pengertian Perkembangan Ilmu Bersentuhan Dengan Budaya dan Agama...",
+          "confidence": 0.9995364546775818
+        },
+        {
+          "text": "c",
+          "confidence": 0.6116474270820618
+        },
+        {
+          "text": " Pengertian Kaitan Perkembangan Keilmuan dan Dampaknya Terhadap Nilai Budaya dan",
+          "confidence": 0.9985383749008179
+        },
+        {
+          "text": "D.",
+          "confidence": 0.9981076121330261
+        },
+        {
+          "text": "Agama Dalam Hidup Sehari-hari ..",
+          "confidence": 0.9796082973480225
+        },
+        {
+          "text": "BAB III.",
+          "confidence": 0.9855688214302063
+        },
+        {
+          "text": ".10",
+          "confidence": 0.9997389912605286
+        },
+        {
+          "text": "PEMBAHASAN ..",
+          "confidence": 0.9710066914558411
+        },
+        {
+          "text": ".10",
+          "confidence": 0.9990890026092529
+        },
+        {
+          "text": "1.",
+          "confidence": 0.999422550201416
+        },
+        {
+          "text": " Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika ",
+          "confidence": 0.9827583432197571
+        },
+        {
+          "text": "10",
+          "confidence": 0.9996712803840637
+        },
+        {
+          "text": "A. Pancasila Sebagai Dasar Negara .",
+          "confidence": 0.9772877097129822
+        },
+        {
+          "text": ".10",
+          "confidence": 0.9988572597503662
+        },
+        {
+          "text": "B.",
+          "confidence": 0.998094916343689
+        },
+        {
+          "text": " Pancasila dalam Pengembangan Ilmu Pengetahuan ....",
+          "confidence": 0.9904776215553284
+        },
+        {
+          "text": "11",
+          "confidence": 0.9996054172515869
+        },
+        {
+          "text": "Pancasila sebagai Sistem Etika.",
+          "confidence": 0.9997044205665588
+        },
+        {
+          "text": "12",
+          "confidence": 0.999800443649292
+        },
+        {
+          "text": "C.",
+          "confidence": 0.940680980682373
+        },
+        {
+          "text": " Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan Agama .....",
+          "confidence": 0.9868477582931519
+        },
+        {
+          "text": "2.",
+          "confidence": 0.9999151229858398
+        },
+        {
+          "text": "..... 13",
+          "confidence": 0.9255397319793701
+        },
+        {
+          "text": "3.",
+          "confidence": 0.7518302202224731
+        },
+        {
+          "text": " Perkembangan Ilmu Bersentuhan dengan Budaya dan Agama ..",
+          "confidence": 0.988385796546936
+        },
+        {
+          "text": ".14",
+          "confidence": 0.9973919987678528
+        },
+        {
+          "text": "4. Kaitan Perkembangan Keilmuan dan Dampaknya terhadap Nilai Budaya dan Agama dalam",
+          "confidence": 0.994023859500885
+        },
+        {
+          "text": "Hidup Sehari-hari ...",
+          "confidence": 0.9907274842262268
+        },
+        {
+          "text": ".15",
+          "confidence": 0.9998626708984375
+        },
+        {
+          "text": "BAB IV",
+          "confidence": 0.9983908534049988
+        },
+        {
+          "text": ".16",
+          "confidence": 0.9978470802307129
+        },
+        {
+          "text": "PENUTUP",
+          "confidence": 0.9994117021560669
+        },
+        {
+          "text": "16",
+          "confidence": 0.9996886849403381
+        },
+        {
+          "text": "KESIMPULAN",
+          "confidence": 0.9992843866348267
+        },
+        {
+          "text": "16",
+          "confidence": 0.9998100996017456
+        },
+        {
+          "text": "DAFTAR PUSTAKA.",
+          "confidence": 0.9996529817581177
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "text": "BAB II PENGERTIAN PANCASILA A. Pengertian Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika Pancasila sebagai dasar pengembangan ilmu dan sistem etika berarti bahwa. kelima sila Pancasila tidak hanya menjadi landasan konstitusional dan politik. melainkan juga berfungsi sebagai kerangka filosofis, normatif, dan metodologis yang. membimbing arah, tujuan, proses, dan penggunaan ilmu pengetahuan di Indonesia. Secara filosofis, Pancasila memberi jawaban atas pertanyaan-pertanyaan mendasar. tentang nilai apa yang harus dijunjung dalam kegiatan ilmiah: bukan semata mengejar kebenaran teknis atau kemajuan material, tetapi juga mempertimbangkan martabat manusia, tanggung jawab moral, keadilan sosial, dan keharmonisan ekologis. Dengan kata lain, ilmu yang dikembangkan berdasarkan Pancasila mesti berpaut pada nilai-nilai kemanusiaan, religiusitas yang moderat, semangat kebangsaan, prinsip demokrasi deliberatif, dan orientasi pada kesejahteraan bersama.. Secara operasional, penerapan Pancasila dalam pengembangan ilmu berarti. setiap tahap kegiatan ilmiah mulai dari perumusan masalah, desain penelitian, pengumpulan dan analisis data, hingga publikasi dan penerapan penelitian harus melekatkan pertimbangan etis yang berakar pada kelima sila. Misalnya, sila Ketuhanan Yang Maha Esa mengingatkan bahwa ilmu harus dipraktikkan dalam batas-batas moral dan rasa tanggung jawab spiritual; sila Kemanusiaan yang Adil dan Beradab menuntut penghormatan terhadap subjek penelitian, hak asasi, dan martabat manusia; sila Persatuan Indonesia mengarahkan ilmu untuk memperkuat kohesi sosial dan menghormati keberagaman budaya; sila Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan mendorong praktik ilmiah yang mengharuskan hasil ilmu memberi manfaat nyata bagi pemerataan kesejahteraan, bukan hanya kelompok elit. Dari sisi etika, Pancasila menyediakan landasan normatif bagi pembentukan kode etik profesi, kebijakan akademik, serta praktik penelitian yang berintegritas. Etika. ilmiah yang berbasiskan Pancasila menekankan nilai-nilai seperti kejujuran intelektual, tanggung jawab sosial, penghormatan atas kearifan lokal, non-diskriminasi, dan keberpihakan pada kepentingan umum. Ini berarti plagiarisme, manipulasi data, atau 5",
+      "lines": [
+        {
+          "text": "BAB II",
+          "confidence": 0.9938252568244934
+        },
+        {
+          "text": "PENGERTIAN PANCASILA",
+          "confidence": 0.998502254486084
+        },
+        {
+          "text": "A. Pengertian Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika",
+          "confidence": 0.9837039113044739
+        },
+        {
+          "text": "Pancasila sebagai dasar pengembangan ilmu dan sistem etika berarti bahwa.",
+          "confidence": 0.9840714931488037
+        },
+        {
+          "text": "kelima sila Pancasila tidak hanya menjadi landasan konstitusional dan politik.",
+          "confidence": 0.9965060353279114
+        },
+        {
+          "text": "melainkan juga berfungsi sebagai kerangka filosofis, normatif, dan metodologis yang.",
+          "confidence": 0.9928500652313232
+        },
+        {
+          "text": "membimbing arah, tujuan, proses, dan penggunaan ilmu pengetahuan di Indonesia.",
+          "confidence": 0.9928756356239319
+        },
+        {
+          "text": "Secara filosofis, Pancasila memberi jawaban atas pertanyaan-pertanyaan mendasar.",
+          "confidence": 0.9922012090682983
+        },
+        {
+          "text": "tentang nilai apa yang harus dijunjung dalam kegiatan ilmiah: bukan semata mengejar",
+          "confidence": 0.9849970936775208
+        },
+        {
+          "text": "kebenaran teknis atau kemajuan material, tetapi juga mempertimbangkan martabat",
+          "confidence": 0.99221271276474
+        },
+        {
+          "text": "manusia, tanggung jawab moral, keadilan sosial, dan keharmonisan ekologis. Dengan",
+          "confidence": 0.9947037100791931
+        },
+        {
+          "text": "kata lain, ilmu yang dikembangkan berdasarkan Pancasila mesti berpaut pada nilai-nilai",
+          "confidence": 0.9953117966651917
+        },
+        {
+          "text": "kemanusiaan, religiusitas yang moderat, semangat kebangsaan, prinsip demokrasi",
+          "confidence": 0.9939965605735779
+        },
+        {
+          "text": "deliberatif, dan orientasi pada kesejahteraan bersama..",
+          "confidence": 0.9893236756324768
+        },
+        {
+          "text": "Secara operasional, penerapan Pancasila dalam pengembangan ilmu berarti.",
+          "confidence": 0.9916396737098694
+        },
+        {
+          "text": "setiap tahap kegiatan ilmiah mulai dari perumusan masalah, desain penelitian,",
+          "confidence": 0.9877693057060242
+        },
+        {
+          "text": "pengumpulan dan analisis data, hingga publikasi dan penerapan penelitian harus",
+          "confidence": 0.9991126656532288
+        },
+        {
+          "text": "melekatkan pertimbangan etis yang berakar pada kelima sila. Misalnya, sila Ketuhanan",
+          "confidence": 0.9804034233093262
+        },
+        {
+          "text": "Yang Maha Esa mengingatkan bahwa ilmu harus dipraktikkan dalam batas-batas moral",
+          "confidence": 0.9941765069961548
+        },
+        {
+          "text": "dan rasa tanggung jawab spiritual; sila Kemanusiaan yang Adil dan Beradab menuntut",
+          "confidence": 0.997965931892395
+        },
+        {
+          "text": "penghormatan terhadap subjek penelitian, hak asasi, dan martabat manusia; sila",
+          "confidence": 0.9827006459236145
+        },
+        {
+          "text": "Persatuan Indonesia mengarahkan ilmu untuk memperkuat kohesi sosial dan",
+          "confidence": 0.9904359579086304
+        },
+        {
+          "text": "menghormati keberagaman budaya; sila Kerakyatan yang Dipimpin oleh Hikmat",
+          "confidence": 0.9901391863822937
+        },
+        {
+          "text": "Kebijaksanaan dalam Permusyawaratan/Perwakilan mendorong praktik ilmiah yang",
+          "confidence": 0.9999178647994995
+        },
+        {
+          "text": "mengharuskan hasil ilmu memberi manfaat nyata bagi pemerataan kesejahteraan, bukan",
+          "confidence": 0.9929853081703186
+        },
+        {
+          "text": "hanya kelompok elit.",
+          "confidence": 0.9767446517944336
+        },
+        {
+          "text": "Dari sisi etika, Pancasila menyediakan landasan normatif bagi pembentukan",
+          "confidence": 0.998717188835144
+        },
+        {
+          "text": "kode etik profesi, kebijakan akademik, serta praktik penelitian yang berintegritas. Etika.",
+          "confidence": 0.9929920434951782
+        },
+        {
+          "text": "ilmiah yang berbasiskan Pancasila menekankan nilai-nilai seperti kejujuran intelektual,",
+          "confidence": 0.9983801245689392
+        },
+        {
+          "text": "tanggung jawab sosial, penghormatan atas kearifan lokal, non-diskriminasi, dan",
+          "confidence": 0.9932200908660889
+        },
+        {
+          "text": "keberpihakan pada kepentingan umum. Ini berarti plagiarisme, manipulasi data, atau",
+          "confidence": 0.9914950132369995
+        },
+        {
+          "text": "5",
+          "confidence": 0.9911274313926697
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "text": "penelitian yang menyebabkan kerusakan sosial-lingkungan bertentangan dengan spirit Pancasila. Selain itu, Pancasila mendorong keseimbangan antara otonomi akademik dan tanggung jawab publik: ilmu bebas dikembangkan tetapi harus diarahkan untuk kebaikan bersama dan selaras dengan tujuan pembangunan berkeadilan. Implementasi Pancasila dalam pendidikan tinggi dan riset juga menuntut. perubahan kurikulum, metode pembelajaran, dan indikator evaluasi. Kurikulum berbasis Pancasila akan mengintegrasikan mata kuliah etik, kajian kearifan lokal, pengembangan karakter, serta interdisipliner sehingga lulusan tidak hanya cakap secara teknis tetapi juga beretika dan berwawasan kemanusiaan. Metode pembelajaran yang dialogis dan partisipatif sejalan dengan sila kerakyatan dan musyawarah; evaluasi keberhasilan riset perlu melampaui publikasi ilmiah semata menjadi penilaian terhadap dampak sosial, ekonomi, dan lingkungan yang adil dan merata.. Secara kebijakan, menjadikan Pancasila sebagai dasar pengembangan ilmu menuntut regulator dan lembaga pendanaan penelitian untuk menetapkan prioritas penelitian yang berorientasi pada kepentingan nasional dan kesejahteraan rakyat-- misalnya penelitian pada bidang kesehatan masyarakat, pertanian berkelanjutan, energi terbarukan yang terjangkau, serta teknologi yang memperkuat inklusi sosial. Skema pendanaan juga perlu dirancang agar mendorong penelitian kolaboratif antara ilmuwan modern dan pemangku kearifan lokal sehingga solusi yang dihasilkan relevan, berkelanjutan, dan menghormati budaya setempat. Namun demikian, menerapkan Pancasila sebagai dasar pengembangan ilmu dan. etika menghadapi tantangan praktis: globalisasi ilmu yang bersifat normatif berbeda- beda, tekanan pasar dan komersialisasi penelitian, serta kebutuhan untuk menjaga kebebasan akademik tanpa mengorbankan tanggung jawab sosial. Oleh karena itu. diperlukan mekanisme pengawasan etis yang efektif seperti komite etik yang kuat, pendidikan etika berkelanjutan, serta mekanisme akuntabilitas publik agar prinsip- prinsip Pancasila benar-benar hidup dalam praktik ilmiah sehari-hari. Pancasila dapat diarti sebagai beriku: a. Pengertian Pancasila Secara Etimologis Secara etimologis, istilah Pancasila berasal dari bahasa Sanskerta, yaitu dari kata demikian, Pancasila berarti lima dasar atau lima prinsip utama yang menjadi fondasi bagi kehidupan berbangsa dan bernegara. Dalam konteks ini, istilah tersebut mengandung makna bahwa terdapat lima nilai pokok yang dijadikan landasan untuk 6",
+      "lines": [
+        {
+          "text": "penelitian yang menyebabkan kerusakan sosial-lingkungan bertentangan dengan spirit",
+          "confidence": 0.9998591542243958
+        },
+        {
+          "text": "Pancasila. Selain itu, Pancasila mendorong keseimbangan antara otonomi akademik",
+          "confidence": 0.989433765411377
+        },
+        {
+          "text": "dan tanggung jawab publik: ilmu bebas dikembangkan tetapi harus diarahkan untuk",
+          "confidence": 0.9882746934890747
+        },
+        {
+          "text": "kebaikan bersama dan selaras dengan tujuan pembangunan berkeadilan.",
+          "confidence": 0.9939777851104736
+        },
+        {
+          "text": "Implementasi Pancasila dalam pendidikan tinggi dan riset juga menuntut.",
+          "confidence": 0.9811362624168396
+        },
+        {
+          "text": "perubahan kurikulum, metode pembelajaran, dan indikator evaluasi. Kurikulum",
+          "confidence": 0.9828671216964722
+        },
+        {
+          "text": "berbasis Pancasila akan mengintegrasikan mata kuliah etik, kajian kearifan lokal,",
+          "confidence": 0.9980746507644653
+        },
+        {
+          "text": "pengembangan karakter, serta interdisipliner sehingga lulusan tidak hanya cakap",
+          "confidence": 0.9942846298217773
+        },
+        {
+          "text": "secara teknis tetapi juga beretika dan berwawasan kemanusiaan. Metode pembelajaran",
+          "confidence": 0.9939459562301636
+        },
+        {
+          "text": "yang dialogis dan partisipatif sejalan dengan sila kerakyatan dan musyawarah; evaluasi",
+          "confidence": 0.9990817904472351
+        },
+        {
+          "text": "keberhasilan riset perlu melampaui publikasi ilmiah semata menjadi penilaian",
+          "confidence": 0.9784839749336243
+        },
+        {
+          "text": "terhadap dampak sosial, ekonomi, dan lingkungan yang adil dan merata..",
+          "confidence": 0.9916502833366394
+        },
+        {
+          "text": "Secara kebijakan, menjadikan Pancasila sebagai dasar pengembangan ilmu",
+          "confidence": 0.9933504462242126
+        },
+        {
+          "text": "menuntut regulator dan lembaga pendanaan penelitian untuk menetapkan prioritas",
+          "confidence": 0.9936099648475647
+        },
+        {
+          "text": "penelitian yang berorientasi pada kepentingan nasional dan kesejahteraan rakyat--",
+          "confidence": 0.9966728091239929
+        },
+        {
+          "text": "misalnya penelitian pada bidang kesehatan masyarakat, pertanian berkelanjutan, energi",
+          "confidence": 0.9942912459373474
+        },
+        {
+          "text": "terbarukan yang terjangkau, serta teknologi yang memperkuat inklusi sosial. Skema",
+          "confidence": 0.9931433200836182
+        },
+        {
+          "text": "pendanaan juga perlu dirancang agar mendorong penelitian kolaboratif antara ilmuwan",
+          "confidence": 0.994867742061615
+        },
+        {
+          "text": "modern dan pemangku kearifan lokal sehingga solusi yang dihasilkan relevan,",
+          "confidence": 0.9986750483512878
+        },
+        {
+          "text": "berkelanjutan, dan menghormati budaya setempat.",
+          "confidence": 0.9998287558555603
+        },
+        {
+          "text": "Namun demikian, menerapkan Pancasila sebagai dasar pengembangan ilmu dan.",
+          "confidence": 0.984311580657959
+        },
+        {
+          "text": "etika menghadapi tantangan praktis: globalisasi ilmu yang bersifat normatif berbeda-",
+          "confidence": 0.99970942735672
+        },
+        {
+          "text": "beda, tekanan pasar dan komersialisasi penelitian, serta kebutuhan untuk menjaga",
+          "confidence": 0.9944698214530945
+        },
+        {
+          "text": "kebebasan akademik tanpa mengorbankan tanggung jawab sosial. Oleh karena itu.",
+          "confidence": 0.991802453994751
+        },
+        {
+          "text": "diperlukan mekanisme pengawasan etis yang efektif seperti komite etik yang kuat,",
+          "confidence": 0.9944855570793152
+        },
+        {
+          "text": "pendidikan etika berkelanjutan, serta mekanisme akuntabilitas publik agar prinsip-",
+          "confidence": 0.996281623840332
+        },
+        {
+          "text": "prinsip Pancasila benar-benar hidup dalam praktik ilmiah sehari-hari.",
+          "confidence": 0.9935650825500488
+        },
+        {
+          "text": "Pancasila dapat diarti sebagai beriku:",
+          "confidence": 0.9999521374702454
+        },
+        {
+          "text": "a. Pengertian Pancasila Secara Etimologis",
+          "confidence": 0.9847149848937988
+        },
+        {
+          "text": "Secara etimologis, istilah Pancasila berasal dari bahasa Sanskerta, yaitu dari kata",
+          "confidence": 0.9938442707061768
+        },
+        {
+          "text": "demikian, Pancasila berarti lima dasar atau lima prinsip utama yang menjadi fondasi",
+          "confidence": 0.9962071776390076
+        },
+        {
+          "text": "bagi kehidupan berbangsa dan bernegara. Dalam konteks ini, istilah tersebut",
+          "confidence": 0.984846830368042
+        },
+        {
+          "text": "mengandung makna bahwa terdapat lima nilai pokok yang dijadikan landasan untuk",
+          "confidence": 0.989802896976471
+        },
+        {
+          "text": "6",
+          "confidence": 0.9863319396972656
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "text": "mengatur tatanan kehidupan masyarakat Indonesia agar harmonis, adil, dan berkeadaban. Pengertian ini menegaskan bahwa sejak awal, Pancasila dirancang sebagai sistem nilai yang mencerminkan kebijaksanaan dan keseimbangan dalam kehidupan manusia.. b. Pengertian Pancasila Secara Terminologis. Secara terminologis, Pancasila diartikan sebagai dasar negara Republik Indonesia yang berfungsi sebagai pandangan hidup bangsa, ideologi nasional, serta sumber dari. segala sumber hukum yang berlaku di Indonesia. Pancasila terdiri dari lima sila yang tercantum dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, yaitu: 1. Ketuhanan Yang Maha Esa,. 2. Kemanusiaan yang Adil dan Beradab,. 3. Persatuan Indonesia, 4. Kerakyatan yang dipimpin oleh hikmat dan Kebijaksanaa Dalam Permusyawaratan\\  Perwakilan 5. Keadilan Sosial bagi Seluruh Rakyat Indonesia. Kelima sila tersebut menjadi pedoman bagi seluruh kegiatan dan kebijakan bangsa Indonesia, baik dalam bidang pemerintahan, hukum, sosial, pendidikan, maupun pengembangan ilmu pengetahuan. Secara terminologis,  Pancasila mempersatukan nilai-nilai universal seperti keadilan, kemanusiaan, dan kebenaran dengan kearifan lokal bangsa Indonesia yang beragam. c. Pengertian Pancasila Secara Filosofis Secara filosofis, Pancasila merupakan hasil pemikiran mendalam dan refleksi bangsa Indonesia terhadap pengalaman sejarah, budaya, dan nilai-nilai religius yang hidup di masyarakat. Pancasila berfungsi sebagai dasar moral dan pandangan hidup yang memberikan arah dalam mencapai kesejahteraan dan keadilan sosial. Dari sisi ini, Pancasila menjadi sumber etika yang menuntun manusia Indonesia untuk berpikir, bersikap, dan bertindak sesuai dengan nilai-nilai kemanusiaan yang luhur. Setiap sila dalam Pancasila memiliki makna filosofis yang saling berhubungan dan membentuk sistem nilai yang utuh:. Sila pertama, menegaskan bahwa manusia Indonesia harus beriman kepada Tuhan dan menjadikan nilai ketuhanan sebagai sumber moral.  Sila kedua, menekankan pentingnya penghormatan terhadap martabat manusia dan  prinsip kemanusiaan yang adil.",
+      "lines": [
+        {
+          "text": "mengatur tatanan kehidupan masyarakat Indonesia agar harmonis, adil, dan",
+          "confidence": 0.9897378087043762
+        },
+        {
+          "text": "berkeadaban. Pengertian ini menegaskan bahwa sejak awal, Pancasila dirancang",
+          "confidence": 0.9894287586212158
+        },
+        {
+          "text": "sebagai sistem nilai yang mencerminkan kebijaksanaan dan keseimbangan dalam",
+          "confidence": 0.9988707304000854
+        },
+        {
+          "text": "kehidupan manusia..",
+          "confidence": 0.9701473116874695
+        },
+        {
+          "text": "b. Pengertian Pancasila Secara Terminologis.",
+          "confidence": 0.9707218408584595
+        },
+        {
+          "text": "Secara terminologis, Pancasila diartikan sebagai dasar negara Republik Indonesia",
+          "confidence": 0.991860032081604
+        },
+        {
+          "text": "yang berfungsi sebagai pandangan hidup bangsa, ideologi nasional, serta sumber dari.",
+          "confidence": 0.993165135383606
+        },
+        {
+          "text": "segala sumber hukum yang berlaku di Indonesia. Pancasila terdiri dari lima sila yang",
+          "confidence": 0.988250732421875
+        },
+        {
+          "text": "tercantum dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun",
+          "confidence": 0.9960044026374817
+        },
+        {
+          "text": "1945, yaitu:",
+          "confidence": 0.9935001730918884
+        },
+        {
+          "text": "1. Ketuhanan Yang Maha Esa,.",
+          "confidence": 0.9753462672233582
+        },
+        {
+          "text": "2. Kemanusiaan yang Adil dan Beradab,.",
+          "confidence": 0.9852670431137085
+        },
+        {
+          "text": "3. Persatuan Indonesia,",
+          "confidence": 0.9976339936256409
+        },
+        {
+          "text": "4. Kerakyatan yang dipimpin oleh hikmat dan Kebijaksanaa Dalam Permusyawaratan\\",
+          "confidence": 0.99410480260849
+        },
+        {
+          "text": " Perwakilan",
+          "confidence": 0.9615463614463806
+        },
+        {
+          "text": "5. Keadilan Sosial bagi Seluruh Rakyat Indonesia.",
+          "confidence": 0.9988942742347717
+        },
+        {
+          "text": "Kelima sila tersebut menjadi pedoman bagi seluruh kegiatan dan kebijakan",
+          "confidence": 0.9938708543777466
+        },
+        {
+          "text": "bangsa Indonesia, baik dalam bidang pemerintahan, hukum, sosial, pendidikan,",
+          "confidence": 0.9945564270019531
+        },
+        {
+          "text": "maupun pengembangan ilmu pengetahuan. Secara terminologis,  Pancasila",
+          "confidence": 0.9758955240249634
+        },
+        {
+          "text": "mempersatukan nilai-nilai universal seperti keadilan, kemanusiaan, dan kebenaran",
+          "confidence": 0.9961872100830078
+        },
+        {
+          "text": "dengan kearifan lokal bangsa Indonesia yang beragam.",
+          "confidence": 0.9997901916503906
+        },
+        {
+          "text": "c. Pengertian Pancasila Secara Filosofis",
+          "confidence": 0.9932940602302551
+        },
+        {
+          "text": "Secara filosofis, Pancasila merupakan hasil pemikiran mendalam dan refleksi",
+          "confidence": 0.9898693561553955
+        },
+        {
+          "text": "bangsa Indonesia terhadap pengalaman sejarah, budaya, dan nilai-nilai religius yang",
+          "confidence": 0.9936711192131042
+        },
+        {
+          "text": "hidup di masyarakat. Pancasila berfungsi sebagai dasar moral dan pandangan hidup",
+          "confidence": 0.9988228678703308
+        },
+        {
+          "text": "yang memberikan arah dalam mencapai kesejahteraan dan keadilan sosial. Dari sisi ini,",
+          "confidence": 0.9998756647109985
+        },
+        {
+          "text": "Pancasila menjadi sumber etika yang menuntun manusia Indonesia untuk berpikir,",
+          "confidence": 0.9943749904632568
+        },
+        {
+          "text": "bersikap, dan bertindak sesuai dengan nilai-nilai kemanusiaan yang luhur.",
+          "confidence": 0.9997568130493164
+        },
+        {
+          "text": "Setiap sila dalam Pancasila memiliki makna filosofis yang saling berhubungan dan",
+          "confidence": 0.9924097061157227
+        },
+        {
+          "text": "membentuk sistem nilai yang utuh:.",
+          "confidence": 0.9745843410491943
+        },
+        {
+          "text": "Sila pertama, menegaskan bahwa manusia Indonesia harus beriman kepada Tuhan dan",
+          "confidence": 0.9900831580162048
+        },
+        {
+          "text": "menjadikan nilai ketuhanan sebagai sumber moral.",
+          "confidence": 0.996453583240509
+        },
+        {
+          "text": " Sila kedua, menekankan pentingnya penghormatan terhadap martabat manusia dan",
+          "confidence": 0.9891904592514038
+        },
+        {
+          "text": " prinsip kemanusiaan yang adil.",
+          "confidence": 0.9794173240661621
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "text": "Sila ketiga, menumbuhkan rasa cinta tanah air dan persatuan dalam keberagaman. musyawarah. Sila kelima, menjadi tujuan akhir berupa tercapainya keadilan sosial bagi seluruh rakyat Indonesia. Dengan demikian, Pancasila secara filosofis merupakan sistem nilai yang menyatukan antara dimensi spiritual, sosial, dan rasional dalam kehidupan manusia. d. Pengertian Pancasila Secara Yuridis Secara yuridis, Pancasila memiliki kedudukan tertinggi dalam sistem hukum nasional Indonesia. Hal ini ditegaskan dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, alinea keempat, yang menyebutkan bahwa bangsa Indonesia mendirikan negara berdasarkan Pancasila. Dengan demikian, Pancasila menjadi sumber dari segala sumber hukum di Indonesia. Artinya, setiap peraturan perundang-undangan, kebijakan pemerintahan, dan tindakan hukum harus selaras dengan nilai-nilai yang terkandung dalam Pancasila.. Selain itu, Pancasila juga menjadi dasar etika dalam penyelenggaraan negara dnnnnnnnnnnnnn nnnn nrnnann nennann naannnnnn nn nennnnnn nnnnnnnnnnd ann  antara kemajuan ilmu pengetahuan dan tanggung jawab moral, sehingga segala bentuk kemajuan tidak menimbulkan ketimpangan sosial atau kerusakan nilai kemanusiaan. B. Pengertian Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan Agama Membandingkan kemajuan semangat keilmuan di antara nilai budaya dan memberikan pengaruh terhadap perkembangan ilmu pengetahuan serta cara manusia memaknai dan mengaplikasikan ilmu dalam kehidupan. Nilai budaya mendorong semangat keilmuan melalui kebiasaan berpikir kritis, kreatif, dan inovatif yang tumbuh dari pengalaman serta tradisi masyarakat dalam beradaptasi dengan lingkungan. Sementara itu, nilai agama memberikan landasan moral dan spiritual bagi perkembangan ilmu, agar ilmu pengetahuan tidak hanya digunakan untuk kepentingan materi atau kekuasaan, tetapi juga untuk kemaslahatan umat manusia dan kelestarian kehidupan. 8",
+      "lines": [
+        {
+          "text": "Sila ketiga, menumbuhkan rasa cinta tanah air dan persatuan dalam keberagaman.",
+          "confidence": 0.9953509569168091
+        },
+        {
+          "text": "musyawarah.",
+          "confidence": 0.999428391456604
+        },
+        {
+          "text": "Sila kelima, menjadi tujuan akhir berupa tercapainya keadilan sosial bagi seluruh rakyat",
+          "confidence": 0.9891896843910217
+        },
+        {
+          "text": "Indonesia.",
+          "confidence": 0.9585240483283997
+        },
+        {
+          "text": "Dengan demikian, Pancasila secara filosofis merupakan sistem nilai yang menyatukan",
+          "confidence": 0.9948633909225464
+        },
+        {
+          "text": "antara dimensi spiritual, sosial, dan rasional dalam kehidupan manusia.",
+          "confidence": 0.9998126029968262
+        },
+        {
+          "text": "d. Pengertian Pancasila Secara Yuridis",
+          "confidence": 0.9775705933570862
+        },
+        {
+          "text": "Secara yuridis, Pancasila memiliki kedudukan tertinggi dalam sistem hukum",
+          "confidence": 0.9967028498649597
+        },
+        {
+          "text": "nasional Indonesia. Hal ini ditegaskan dalam Pembukaan Undang-Undang Dasar",
+          "confidence": 0.9980221390724182
+        },
+        {
+          "text": "Negara Republik Indonesia Tahun 1945, alinea keempat, yang menyebutkan bahwa",
+          "confidence": 0.9965171813964844
+        },
+        {
+          "text": "bangsa Indonesia mendirikan negara berdasarkan Pancasila. Dengan demikian,",
+          "confidence": 0.9943447709083557
+        },
+        {
+          "text": "Pancasila menjadi sumber dari segala sumber hukum di Indonesia. Artinya, setiap",
+          "confidence": 0.9879199862480164
+        },
+        {
+          "text": "peraturan perundang-undangan, kebijakan pemerintahan, dan tindakan hukum harus",
+          "confidence": 0.9952224493026733
+        },
+        {
+          "text": "selaras dengan nilai-nilai yang terkandung dalam Pancasila..",
+          "confidence": 0.9860261678695679
+        },
+        {
+          "text": "Selain itu, Pancasila juga menjadi dasar etika dalam penyelenggaraan negara",
+          "confidence": 0.9959238767623901
+        },
+        {
+          "text": "dnnnnnnnnnnnnn nnnn nrnnann nennann naannnnnn nn nennnnnn nnnnnnnnnnd ann",
+          "confidence": 0.5103483200073242
+        },
+        {
+          "text": " antara kemajuan ilmu pengetahuan dan tanggung jawab moral, sehingga segala bentuk",
+          "confidence": 0.9846365451812744
+        },
+        {
+          "text": "kemajuan tidak menimbulkan ketimpangan sosial atau kerusakan nilai kemanusiaan.",
+          "confidence": 0.9875515103340149
+        },
+        {
+          "text": "B. Pengertian Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai",
+          "confidence": 0.9984189867973328
+        },
+        {
+          "text": "Budaya dan Agama",
+          "confidence": 0.999930739402771
+        },
+        {
+          "text": "Membandingkan kemajuan semangat keilmuan di antara nilai budaya dan",
+          "confidence": 0.9951077103614807
+        },
+        {
+          "text": "memberikan pengaruh terhadap perkembangan ilmu pengetahuan serta cara manusia",
+          "confidence": 0.9997864961624146
+        },
+        {
+          "text": "memaknai dan mengaplikasikan ilmu dalam kehidupan. Nilai budaya mendorong",
+          "confidence": 0.9959150552749634
+        },
+        {
+          "text": "semangat keilmuan melalui kebiasaan berpikir kritis, kreatif, dan inovatif yang tumbuh",
+          "confidence": 0.9964705109596252
+        },
+        {
+          "text": "dari pengalaman serta tradisi masyarakat dalam beradaptasi dengan lingkungan.",
+          "confidence": 0.9962934851646423
+        },
+        {
+          "text": "Sementara itu, nilai agama memberikan landasan moral dan spiritual bagi",
+          "confidence": 0.989237368106842
+        },
+        {
+          "text": "perkembangan ilmu, agar ilmu pengetahuan tidak hanya digunakan untuk kepentingan",
+          "confidence": 0.9972772598266602
+        },
+        {
+          "text": "materi atau kekuasaan, tetapi juga untuk kemaslahatan umat manusia dan kelestarian",
+          "confidence": 0.9891955852508545
+        },
+        {
+          "text": "kehidupan.",
+          "confidence": 0.9990681409835815
+        },
+        {
+          "text": "8",
+          "confidence": 0.9940569400787354
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "text": "Dalam budaya Indonesia, keduanya berjalan seiring budaya memperkaya cara berpikir dan bertindak, sedangkan agama memperkuat integritas, kejujuran, serta tanggung jawab dalam mencari dan menerapkan ilmu. Dengan demikian, membandingkan kemajuan semangat keilmuan antara nilai budaya dan agama menunjukkan bahwa keduanya saling melengkapi: budaya menumbuhkan daya cipta dan kemandirian intelektual, sedangkan agama memberikan arah dan makna moral agar ilmu tetap berpihak pada kebaikan dan kemanusiaan. C. Pengertian Perkembangan Ilmu Bersentuhan Dengan Budaya dan Agama Menjelaskan perkembangan ilmu yang bersentuhan dengan budaya dan agama berarti memahami bahwa proses kemajuan pengetahuan manusia tidak pernah berdiri sendiri, melainkan selalu dipengaruhi oleh nilai-nilai budaya dan ajaran keagamaan yang hidup dalam masyarakat. Sejak zaman dahulu, ilmu pengetahuan tumbuh dari rasa ingin tahu manusia terhadap alam semesta, kehidupan, dan dirinya sendiri, namun arah dan tujuan perkembangan ilmu tersebut senantiasa dibingkai oleh norma budaya serta nilai moral dan spiritual yang ditanamkan oleh agama. Budaya memberikan ruang bagi manusia untuk berkreasi, berpikir kritis, dan menyesuaikan diri dengan perubahan zaman, sementara agama memberikan pedoman agar proses pencarian ilmu tidak sesama manusia. Dalam konteks bangsa Indonesia, misalnya, perkembangan ilmu tidak hanya dimaknai sebagai hasil rasionalitas dan penelitian semata, tetapi juga sebagai bagian dari upaya melestarikan kearifan lokal dan menjaga keharmonisan antara manusia, alam, dan Sang Pencipta. Budaya menanamkan nilai gotong royong, kebersamaan, serta penghormatan terhadap pengetahuan tradisional, sedangkan agama menumbuhkan kesadaran bahwa ilmu merupakan anugerah Tuhan yang harus. dimanfaatkan untuk kemaslahatan dan kesejahteraan umat manusia. sDengan demikian, keterpaduan antara ilmu, budaya, dan agama menjadi fondasi penting dalam menciptakan peradaban manusia yang seimbang, beradab, dan berkelanjutan, di mana ilmu pengetahuan tidak hanya menjadi alat untuk menguasai dunia, tetapi juga menjadi sarana untuk mendekatkan diri kepada kebenaran, kemanusiaan, dan nilai-nilai ketuhanan..",
+      "lines": [
+        {
+          "text": "Dalam budaya Indonesia, keduanya berjalan seiring budaya memperkaya cara",
+          "confidence": 0.9970309138298035
+        },
+        {
+          "text": "berpikir dan bertindak, sedangkan agama memperkuat integritas, kejujuran, serta",
+          "confidence": 0.9960132241249084
+        },
+        {
+          "text": "tanggung jawab dalam mencari dan menerapkan ilmu. Dengan demikian,",
+          "confidence": 0.9851289391517639
+        },
+        {
+          "text": "membandingkan kemajuan semangat keilmuan antara nilai budaya dan agama",
+          "confidence": 0.9851912260055542
+        },
+        {
+          "text": "menunjukkan bahwa keduanya saling melengkapi: budaya menumbuhkan daya cipta",
+          "confidence": 0.9995791912078857
+        },
+        {
+          "text": "dan kemandirian intelektual, sedangkan agama memberikan arah dan makna moral agar",
+          "confidence": 0.9935014247894287
+        },
+        {
+          "text": "ilmu tetap berpihak pada kebaikan dan kemanusiaan.",
+          "confidence": 0.9953131079673767
+        },
+        {
+          "text": "C. Pengertian Perkembangan Ilmu Bersentuhan Dengan Budaya dan Agama",
+          "confidence": 0.9969388842582703
+        },
+        {
+          "text": "Menjelaskan perkembangan ilmu yang bersentuhan dengan budaya dan agama",
+          "confidence": 0.9934129118919373
+        },
+        {
+          "text": "berarti memahami bahwa proses kemajuan pengetahuan manusia tidak pernah berdiri",
+          "confidence": 0.9995467066764832
+        },
+        {
+          "text": "sendiri, melainkan selalu dipengaruhi oleh nilai-nilai budaya dan ajaran keagamaan",
+          "confidence": 0.9996064305305481
+        },
+        {
+          "text": "yang hidup dalam masyarakat. Sejak zaman dahulu, ilmu pengetahuan tumbuh dari rasa",
+          "confidence": 0.9971500635147095
+        },
+        {
+          "text": "ingin tahu manusia terhadap alam semesta, kehidupan, dan dirinya sendiri, namun arah",
+          "confidence": 0.9967913627624512
+        },
+        {
+          "text": "dan tujuan perkembangan ilmu tersebut senantiasa dibingkai oleh norma budaya serta",
+          "confidence": 0.9999159574508667
+        },
+        {
+          "text": "nilai moral dan spiritual yang ditanamkan oleh agama. Budaya memberikan ruang bagi",
+          "confidence": 0.9976564645767212
+        },
+        {
+          "text": "manusia untuk berkreasi, berpikir kritis, dan menyesuaikan diri dengan perubahan",
+          "confidence": 0.9868749380111694
+        },
+        {
+          "text": "zaman, sementara agama memberikan pedoman agar proses pencarian ilmu tidak",
+          "confidence": 0.9911489486694336
+        },
+        {
+          "text": "sesama manusia.",
+          "confidence": 0.9996997714042664
+        },
+        {
+          "text": "Dalam konteks bangsa Indonesia, misalnya, perkembangan ilmu tidak hanya",
+          "confidence": 0.9976153373718262
+        },
+        {
+          "text": "dimaknai sebagai hasil rasionalitas dan penelitian semata, tetapi juga sebagai bagian",
+          "confidence": 0.9990881681442261
+        },
+        {
+          "text": "dari upaya melestarikan kearifan lokal dan menjaga keharmonisan antara manusia,",
+          "confidence": 0.9919946193695068
+        },
+        {
+          "text": "alam, dan Sang Pencipta. Budaya menanamkan nilai gotong royong, kebersamaan, serta",
+          "confidence": 0.9991863369941711
+        },
+        {
+          "text": "penghormatan terhadap pengetahuan tradisional, sedangkan agama menumbuhkan",
+          "confidence": 0.9950311779975891
+        },
+        {
+          "text": "kesadaran bahwa ilmu merupakan anugerah Tuhan yang harus. dimanfaatkan untuk",
+          "confidence": 0.9891692996025085
+        },
+        {
+          "text": "kemaslahatan dan kesejahteraan umat manusia. sDengan demikian, keterpaduan antara",
+          "confidence": 0.9981449246406555
+        },
+        {
+          "text": "ilmu, budaya, dan agama menjadi fondasi penting dalam menciptakan peradaban",
+          "confidence": 0.9873559474945068
+        },
+        {
+          "text": "manusia yang seimbang, beradab, dan berkelanjutan, di mana ilmu pengetahuan tidak",
+          "confidence": 0.9889779090881348
+        },
+        {
+          "text": "hanya menjadi alat untuk menguasai dunia, tetapi juga menjadi sarana untuk",
+          "confidence": 0.9962007403373718
+        },
+        {
+          "text": "mendekatkan diri kepada kebenaran, kemanusiaan, dan nilai-nilai ketuhanan..",
+          "confidence": 0.9890356659889221
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "text": "D. Pengertian Kaitan Perkembangan Keilmuan dan Dampaknya Terhadap Nilai Budaya dan Agama Dalam Hidup Sehari-hari Kaitan antara perkembangan keilmuan dan dampaknya terhadap nilai budaya dan agama dalam kehidupan sehari-hari menggambarkan hubungan yang erat antara kemajuan pengetahuan manusia dengan sistem nilai yang hidup dalam masyarakat. Perkembangan ilmu pengetahuan membawa pengaruh besar terhadap cara manusia berpikir, bertindak, dan berinteraksi, karena ilmu membuka wawasan baru, meningkatkan efisiensi, serta memudahkan berbagai aspek kehidupan. Namun, kemajuan tersebut juga dapat membawa tantangan bagi kelestarian nilai budaya dan ajaran agama yang menjadi pedoman moral dalam kehidupan sosial. Budaya, sebagai warisan leluhur yang mencerminkan identitas bangsa, sering kali mengalami perubahan akibat arus globalisasi dan teknologi modern.. Sementara itu, nilai agama berfungsi sebagai pengendali moral agar manusia tidak terjebak dalam sikap individualistis, materialistis, dan hedonistis yang dapat muncul dari penyalahgunaan ilmu pengetahuan. Oleh karena itu, perkembangan keilmuan seharusnya tidak dipandang sebagai ancaman bagi budaya dan agama, melainkan sebagai sarana untuk memperkuat dan memperkaya keduanya. Dengan menjadikan nilai-nilai budaya dan ajaran agama sebagai pedoman etika dalam penerapan ilmu, maka kemajuan pengetahuan dapat berjalan seimbang - tidak hanya menghasilkan inovasi dan kemudahan hidup, tetapi juga menumbuhkan kesadaran moral, menghargai tradisi, serta memperkuat keimanan dan kemanusiaan dalam kehidupan sehari-hari. 10",
+      "lines": [
+        {
+          "text": "D. Pengertian Kaitan Perkembangan Keilmuan dan Dampaknya Terhadap Nilai",
+          "confidence": 0.9981228709220886
+        },
+        {
+          "text": "Budaya dan Agama Dalam Hidup Sehari-hari",
+          "confidence": 0.9998773336410522
+        },
+        {
+          "text": "Kaitan antara perkembangan keilmuan dan dampaknya terhadap nilai budaya",
+          "confidence": 0.9984523057937622
+        },
+        {
+          "text": "dan agama dalam kehidupan sehari-hari menggambarkan hubungan yang erat antara",
+          "confidence": 0.999936580657959
+        },
+        {
+          "text": "kemajuan pengetahuan manusia dengan sistem nilai yang hidup dalam masyarakat.",
+          "confidence": 0.9953014850616455
+        },
+        {
+          "text": "Perkembangan ilmu pengetahuan membawa pengaruh besar terhadap cara manusia",
+          "confidence": 0.9977994561195374
+        },
+        {
+          "text": "berpikir, bertindak, dan berinteraksi, karena ilmu membuka wawasan baru,",
+          "confidence": 0.9958309531211853
+        },
+        {
+          "text": "meningkatkan efisiensi, serta memudahkan berbagai aspek kehidupan. Namun,",
+          "confidence": 0.9844775199890137
+        },
+        {
+          "text": "kemajuan tersebut juga dapat membawa tantangan bagi kelestarian nilai budaya dan",
+          "confidence": 0.9947582483291626
+        },
+        {
+          "text": "ajaran agama yang menjadi pedoman moral dalam kehidupan sosial. Budaya, sebagai",
+          "confidence": 0.991878092288971
+        },
+        {
+          "text": "warisan leluhur yang mencerminkan identitas bangsa, sering kali mengalami perubahan",
+          "confidence": 0.9983643889427185
+        },
+        {
+          "text": "akibat arus globalisasi dan teknologi modern..",
+          "confidence": 0.9734402298927307
+        },
+        {
+          "text": "Sementara itu, nilai agama berfungsi sebagai pengendali moral agar manusia",
+          "confidence": 0.9994738698005676
+        },
+        {
+          "text": "tidak terjebak dalam sikap individualistis, materialistis, dan hedonistis yang dapat",
+          "confidence": 0.994798481464386
+        },
+        {
+          "text": "muncul dari penyalahgunaan ilmu pengetahuan. Oleh karena itu, perkembangan",
+          "confidence": 0.9870637655258179
+        },
+        {
+          "text": "keilmuan seharusnya tidak dipandang sebagai ancaman bagi budaya dan agama,",
+          "confidence": 0.9940643310546875
+        },
+        {
+          "text": "melainkan sebagai sarana untuk memperkuat dan memperkaya keduanya. Dengan",
+          "confidence": 0.9998077154159546
+        },
+        {
+          "text": "menjadikan nilai-nilai budaya dan ajaran agama sebagai pedoman etika dalam",
+          "confidence": 0.9866989850997925
+        },
+        {
+          "text": "penerapan ilmu, maka kemajuan pengetahuan dapat berjalan seimbang - tidak hanya",
+          "confidence": 0.9933612942695618
+        },
+        {
+          "text": "menghasilkan inovasi dan kemudahan hidup, tetapi juga menumbuhkan kesadaran",
+          "confidence": 0.99991375207901
+        },
+        {
+          "text": "moral, menghargai tradisi, serta memperkuat keimanan dan kemanusiaan dalam",
+          "confidence": 0.9965662360191345
+        },
+        {
+          "text": "kehidupan sehari-hari.",
+          "confidence": 0.9976812601089478
+        },
+        {
+          "text": "10",
+          "confidence": 0.9863284826278687
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "text": "BAB III PEMBAHASAN A. Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika 1.  Pancasila Sebagai Dasar Negara Pancasila merupakan dasar negara Republik Indonesia yang secara resmi ditetapkan dalam Pembukaan Undang-Undang Dasar 1945. Kelima sila Pancasila, yaitu Ketuhanan Yang Maha Esa, Kemanusiaan yang Adil dan Beradab, Persatuan Permusyawaratan/Perwakilan, dan Keadilan Sosial bagi Seluruh Rakyat Indonesia, membentuk satu kesatuan yang sistematis dan hierarkis. Pancasila memiliki beberapa kedudukan penting dalam kehidupan bernegara. Pertama, sebagai dasar negara (philosophische grondslag), Pancasila menjadi fundamen atau landasan yang menjiwai seluruh penyelenggaraan negara dan pemerintahan Indonesia. Semua produk hukum, kebijakan, dan tindakan negara harus bersumber dan tidak boleh bertentangan dengan nilai-nilai Pancasila. Kedua, sebagai ideologi negara, Pancasila adalah ideologi terbuka yang mampu berinteraksi dengan perkembangan zaman tanpa kehilangan nilai-nilai dasarnya. Ketiga, sebagai pandangan hidup (way of life), Pancasila menjadi pedoman bagi kehidupan sehari-hari. Secara filosofis, Pancasila memiliki dimensi ontologis yang membahas tentang hakikat atau esensi dari setiap sila. Pancasila mengakui adanya Tuhan sebagai pencipta alam semesta, manusia sebagai makhluk yang bermartabat, bangsa sebagai entitas kolektif, rakyat sebagai pemegang kedaulatan, dan keadilan sebagai tujuan bersama. Dimensi epistemologis Pancasila menawarkan cara memperoleh dan mengembangkan pengetahuan secara holistik, tidak memisahkan antara ilmu dan nilai, antara rasio dan spiritualitas. Sementara dimensi aksiologis membahas tentang nilai dan tujuan, di mana setiap sila dalam Pancasila mengandung nilai yang menjadi ukuran baik-buruk dalam kehidupan. 11",
+      "lines": [
+        {
+          "text": "BAB III",
+          "confidence": 0.9209235906600952
+        },
+        {
+          "text": "PEMBAHASAN",
+          "confidence": 0.9995559453964233
+        },
+        {
+          "text": "A. Pancasila Sebagai Dasar Pengembangan Ilmu dan Sistem Etika",
+          "confidence": 0.9977698922157288
+        },
+        {
+          "text": "1.  Pancasila Sebagai Dasar Negara",
+          "confidence": 0.98038649559021
+        },
+        {
+          "text": "Pancasila merupakan dasar negara Republik Indonesia yang secara resmi",
+          "confidence": 0.9985584616661072
+        },
+        {
+          "text": "ditetapkan dalam Pembukaan Undang-Undang Dasar 1945. Kelima sila Pancasila,",
+          "confidence": 0.989215612411499
+        },
+        {
+          "text": "yaitu Ketuhanan Yang Maha Esa, Kemanusiaan yang Adil dan Beradab, Persatuan",
+          "confidence": 0.9948052763938904
+        },
+        {
+          "text": "Permusyawaratan/Perwakilan, dan Keadilan Sosial bagi Seluruh Rakyat Indonesia,",
+          "confidence": 0.9863783717155457
+        },
+        {
+          "text": "membentuk satu kesatuan yang sistematis dan hierarkis. Pancasila memiliki beberapa",
+          "confidence": 0.9943766593933105
+        },
+        {
+          "text": "kedudukan penting dalam kehidupan bernegara. Pertama, sebagai dasar negara",
+          "confidence": 0.9830644130706787
+        },
+        {
+          "text": "(philosophische grondslag), Pancasila menjadi fundamen atau landasan yang",
+          "confidence": 0.9988849759101868
+        },
+        {
+          "text": "menjiwai seluruh penyelenggaraan negara dan pemerintahan Indonesia. Semua",
+          "confidence": 0.9942450523376465
+        },
+        {
+          "text": "produk hukum, kebijakan, dan tindakan negara harus bersumber dan tidak boleh",
+          "confidence": 0.9892045855522156
+        },
+        {
+          "text": "bertentangan dengan nilai-nilai Pancasila. Kedua, sebagai ideologi negara, Pancasila",
+          "confidence": 0.9993855357170105
+        },
+        {
+          "text": "adalah ideologi terbuka yang mampu berinteraksi dengan perkembangan zaman tanpa",
+          "confidence": 0.9838994741439819
+        },
+        {
+          "text": "kehilangan nilai-nilai dasarnya.",
+          "confidence": 0.9984503984451294
+        },
+        {
+          "text": "Ketiga, sebagai pandangan hidup (way of life), Pancasila menjadi pedoman bagi",
+          "confidence": 0.9883922338485718
+        },
+        {
+          "text": "kehidupan sehari-hari. Secara filosofis, Pancasila memiliki dimensi ontologis yang",
+          "confidence": 0.9948123097419739
+        },
+        {
+          "text": "membahas tentang hakikat atau esensi dari setiap sila. Pancasila mengakui adanya",
+          "confidence": 0.9961036443710327
+        },
+        {
+          "text": "Tuhan sebagai pencipta alam semesta, manusia sebagai makhluk yang bermartabat,",
+          "confidence": 0.993922770023346
+        },
+        {
+          "text": "bangsa sebagai entitas kolektif, rakyat sebagai pemegang kedaulatan, dan keadilan",
+          "confidence": 0.9939290881156921
+        },
+        {
+          "text": "sebagai tujuan bersama. Dimensi epistemologis Pancasila menawarkan cara",
+          "confidence": 0.9755308032035828
+        },
+        {
+          "text": "memperoleh dan mengembangkan pengetahuan secara holistik, tidak memisahkan",
+          "confidence": 0.9993561506271362
+        },
+        {
+          "text": "antara ilmu dan nilai, antara rasio dan spiritualitas. Sementara dimensi aksiologis",
+          "confidence": 0.9925774931907654
+        },
+        {
+          "text": "membahas tentang nilai dan tujuan, di mana setiap sila dalam Pancasila mengandung",
+          "confidence": 0.9991512298583984
+        },
+        {
+          "text": "nilai yang menjadi ukuran baik-buruk dalam kehidupan.",
+          "confidence": 0.9895873069763184
+        },
+        {
+          "text": "11",
+          "confidence": 0.9993302822113037
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "text": "Kelima sila dalam Pancasila memiliki hubungan yang hierarkis-piramidal dan bersifat sistematis. Sila Ketuhanan menjadi basis spiritual dan moral bagi sila-sila lainnya. Sila Kemanusiaan merupakan perwujudan dari sila Ketuhanan dalam hubungan antar manusia. Sila Persatuan Indonesia merefleksikan kemanusiaan dalam konteks kehidupan berbangsa. Sila Kerakyatan adalah implementasi persatuan dalam sistem pemerintahan. Dan Sila Keadilan Sosial merupakan tujuan akhir yang hendak dicapai. Kelima sila tersebut tidak dapat dipisah-pisahkan dan harus dipahami sebagai satu kesatuan yang utuh. Sebagai pandangan hidup, Pancasila merupakan sistem nilai yang komprehensif yang mencakup nilai-nilai religius yang mengakui dimensi ketuhanan, nilai-nilai humanistik yang menghargai harkat martabat manusia, nilai-nilai nasionalistik yang  mencintai bangsa dan negara, nilai-nilai demokratis yang menghargai partisipasi dan  musyawarah,  serta  nilai-nilai keadilan yang memperjuangkan kesejahteraan bersama. Sistem nilai ini membedakan Pancasila dari ideologi lain dan menjadikannya sebagai jati diri bangsa Indonesia yang unik.. A. Pancasila dalam Pengembangan Ilmu Pengetahuan. Pancasila sebagai landasan filosofis bangsa Indonesia memiliki peran penting dalam pengembangan ilmu pengetahuan. Setiap sila dalam Pancasila memberikan kontribusi spesifik dalam membentuk paradigma keilmuan yang khas Indonesia. Sila Ketuhanan Yang Maha Esa memberikan landasan spiritual dan moral bagi pengembangan ilmu. Ilmu pengetahuan dipandang sebagai anugerah dan amanah dari Tuhan yang harus digunakan untuk kebaikan. Tidak ada dikotomi antara ilmu dan agama, justru ilmu pengetahuan dapat memperkuat keimanan dengan mengungkap keagungan ciptaan Tuhan. Aktivitas keilmuan harus sesuai dengan nilai-nilai ketuhanan seperti kejujuran, kerendahan hati, dan tanggung jawab moral. Ilmu tidak hanya untuk kepentingan duniawi tetapi juga memiliki dimensi transendental sebagai bentuk ibadah. Contohnya, pengembangan teknologi tidak boleh melanggar nilai-nilai ketuhanan seperti kloning manusia yang dianggap melanggar kehendak Tuhan. Sila Kemanusiaan yang Adil dan Beradab menekankan dimensi humanistik ilmu pengetahuan. Pengembangan ilmu harus berorientasi pada peningkatan harkat dan martabat manusia, bukan untuk eksploitasi atau dehumanisasi. Ilmu pengetahuan harus dapat diakses oleh semua orang tanpa diskriminasi. Penelitian tidak boleh 12",
+      "lines": [
+        {
+          "text": "Kelima sila dalam Pancasila memiliki hubungan yang hierarkis-piramidal dan",
+          "confidence": 0.9867419600486755
+        },
+        {
+          "text": "bersifat sistematis. Sila Ketuhanan menjadi basis spiritual dan moral bagi sila-sila",
+          "confidence": 0.99470055103302
+        },
+        {
+          "text": "lainnya. Sila Kemanusiaan merupakan perwujudan dari sila Ketuhanan dalam",
+          "confidence": 0.9902862906455994
+        },
+        {
+          "text": "hubungan antar manusia. Sila Persatuan Indonesia merefleksikan kemanusiaan dalam",
+          "confidence": 0.998824417591095
+        },
+        {
+          "text": "konteks kehidupan berbangsa. Sila Kerakyatan adalah implementasi persatuan dalam",
+          "confidence": 0.9990673065185547
+        },
+        {
+          "text": "sistem pemerintahan. Dan Sila Keadilan Sosial merupakan tujuan akhir yang hendak",
+          "confidence": 0.9963017702102661
+        },
+        {
+          "text": "dicapai. Kelima sila tersebut tidak dapat dipisah-pisahkan dan harus dipahami sebagai",
+          "confidence": 0.9950486421585083
+        },
+        {
+          "text": "satu kesatuan yang utuh.",
+          "confidence": 0.9996060729026794
+        },
+        {
+          "text": "Sebagai pandangan hidup, Pancasila merupakan sistem nilai yang komprehensif",
+          "confidence": 0.9920035600662231
+        },
+        {
+          "text": "yang mencakup nilai-nilai religius yang mengakui dimensi ketuhanan, nilai-nilai",
+          "confidence": 0.9961878061294556
+        },
+        {
+          "text": "humanistik yang menghargai harkat martabat manusia, nilai-nilai nasionalistik yang",
+          "confidence": 0.9978126883506775
+        },
+        {
+          "text": " mencintai bangsa dan negara, nilai-nilai demokratis yang menghargai partisipasi",
+          "confidence": 0.9819282293319702
+        },
+        {
+          "text": "dan",
+          "confidence": 0.9997789263725281
+        },
+        {
+          "text": " musyawarah,",
+          "confidence": 0.9847524762153625
+        },
+        {
+          "text": " serta",
+          "confidence": 0.9522972106933594
+        },
+        {
+          "text": " nilai-nilai",
+          "confidence": 0.9902613759040833
+        },
+        {
+          "text": "keadilan",
+          "confidence": 0.9996012449264526
+        },
+        {
+          "text": "yang memperjuangkan",
+          "confidence": 0.9986690878868103
+        },
+        {
+          "text": "kesejahteraan bersama. Sistem nilai ini membedakan Pancasila dari ideologi lain dan",
+          "confidence": 0.9971667528152466
+        },
+        {
+          "text": "menjadikannya sebagai jati diri bangsa Indonesia yang unik..",
+          "confidence": 0.9921213984489441
+        },
+        {
+          "text": "A. Pancasila dalam Pengembangan Ilmu Pengetahuan.",
+          "confidence": 0.9817882180213928
+        },
+        {
+          "text": "Pancasila sebagai landasan filosofis bangsa Indonesia memiliki peran penting",
+          "confidence": 0.9946900606155396
+        },
+        {
+          "text": "dalam pengembangan ilmu pengetahuan. Setiap sila dalam Pancasila memberikan",
+          "confidence": 0.9989792108535767
+        },
+        {
+          "text": "kontribusi spesifik dalam membentuk paradigma keilmuan yang khas Indonesia. Sila",
+          "confidence": 0.99901282787323
+        },
+        {
+          "text": "Ketuhanan Yang Maha Esa memberikan landasan spiritual dan moral bagi",
+          "confidence": 0.9869822263717651
+        },
+        {
+          "text": "pengembangan ilmu. Ilmu pengetahuan dipandang sebagai anugerah dan amanah dari",
+          "confidence": 0.9996846318244934
+        },
+        {
+          "text": "Tuhan yang harus digunakan untuk kebaikan. Tidak ada dikotomi antara ilmu dan",
+          "confidence": 0.9980488419532776
+        },
+        {
+          "text": "agama, justru ilmu pengetahuan dapat memperkuat keimanan dengan mengungkap",
+          "confidence": 0.9893442392349243
+        },
+        {
+          "text": "keagungan ciptaan Tuhan. Aktivitas keilmuan harus sesuai dengan nilai-nilai",
+          "confidence": 0.9892947673797607
+        },
+        {
+          "text": "ketuhanan seperti kejujuran, kerendahan hati, dan tanggung jawab moral. Ilmu tidak",
+          "confidence": 0.9973832368850708
+        },
+        {
+          "text": "hanya untuk kepentingan duniawi tetapi juga memiliki dimensi transendental sebagai",
+          "confidence": 0.984136164188385
+        },
+        {
+          "text": "bentuk ibadah. Contohnya, pengembangan teknologi tidak boleh melanggar nilai-nilai",
+          "confidence": 0.9969927072525024
+        },
+        {
+          "text": "ketuhanan seperti kloning manusia yang dianggap melanggar kehendak Tuhan. Sila",
+          "confidence": 0.9940858483314514
+        },
+        {
+          "text": "Kemanusiaan yang Adil dan Beradab menekankan dimensi humanistik ilmu",
+          "confidence": 0.9948296546936035
+        },
+        {
+          "text": "pengetahuan. Pengembangan ilmu harus berorientasi pada peningkatan harkat dan",
+          "confidence": 0.9992861151695251
+        },
+        {
+          "text": "martabat manusia, bukan untuk eksploitasi atau dehumanisasi. Ilmu pengetahuan",
+          "confidence": 0.9948599934577942
+        },
+        {
+          "text": "harus dapat diakses oleh semua orang tanpa diskriminasi. Penelitian tidak boleh",
+          "confidence": 0.9892181158065796
+        },
+        {
+          "text": "12",
+          "confidence": 0.9999064207077026
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "text": "memperlakukan manusia sebagai objek semata, dan hak asasi manusia harus dilindungi dalam setiap aktivitas riset. Ilmu harus berkontribusi pada kemajuan peradaban yang berkeadaban. Contohnya, penelitian medis harus mendapat informed consent dari subjek penelitian dan melindungi hak-hak mereka. Sila Persatuan Indonesia memberikan dimensi kebangsaan dalam ilmu pengetahuan. Pengembangan ilmu harus memperkuat persatuan dan kesatuan bangsa. Penting untuk menggali dan mengintegrasikan kearifan lokal Indonesia dalam pengembangan ilmu pengetahuan Nasionalisme ilmiah perlu dikembangkan untuk mencapai kemandirian ilmu pengetahuan nasional tanpa isolasi dari perkembangan global. Keragaman pendekatan dan metode keilmuan dari berbagai budaya di Indonesia harus dihargai. Contohnya adalah pengembangan etnobotani yang menggali pengetahuan tradisional tentang. tumbuhan obat dari berbagai daerah di Indonesia. Sila Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan menekankan aspek. demokratis dan partisipatif. Pengembangan ilmu harus melibatkan partisipasi masyarakat, tidak hanya domain para ahli. Kebenaran ilmiah dicapai melalui dialog, diskusi, dan musyawarah. Ilmu harus dikembangkan dengan kebijaksanaan yang mempertimbangkan berbagai aspek dan kepentingan. Aktivitas keilmuan harus transparan dan akuntabel kepada masyarakat. Contohnya adalah penelitian berbasis komunitas yang melibatkan masyarakat dalam seluruh proses penelitian. Sila Keadilan Sosial bagi Seluruh Rakyat Indonesia memberikan orientasi pada keadilan dan kesejahteraan. Tujuan akhir pengembangan ilmu adalah kesejahteraan dan keadilan sosial bagi seluruh rakyat. Manfaat dari ilmu pengetahuan harus terdistribusi. secara adil. Ilmu harus berkontribusi pada pengurangan kesenjangan sosial-ekonomi dan memberdayakan masyarakat, terutama kelompok marginal. Contohnya adalah pengembangan teknologi tepat guna yang dapat dimanfaatkan oleh masyarakat kecil untuk meningkatkan kesejahteraan ekonomi mereka. Berdasarkan kelima sila tersebut, dapat dirumuskan paradigma keilmuan Pancasila yang bersifat holistik- integratif dengan mengintegrasikan dimensi spiritual, material, individu, dan sosial. Paradigma ini bersifat humanistik-religius yang menempatkan manusia dan nilai ketuhanan sebagai pusat, etis-bertanggung jawab yang menekankan tanggung jawab moral, kontekstual yang mempertimbangkan konteks sosial-budaya Indonesia, serta berorientasi keadilan yang mengutamakan kesejahteraan bersama. 13",
+      "lines": [
+        {
+          "text": "memperlakukan manusia sebagai objek semata, dan hak asasi manusia harus",
+          "confidence": 0.9899498224258423
+        },
+        {
+          "text": "dilindungi dalam setiap aktivitas riset. Ilmu harus berkontribusi pada kemajuan",
+          "confidence": 0.9879675507545471
+        },
+        {
+          "text": "peradaban yang berkeadaban. Contohnya, penelitian medis harus mendapat informed",
+          "confidence": 0.9896872043609619
+        },
+        {
+          "text": "consent dari subjek penelitian dan melindungi hak-hak mereka. Sila Persatuan",
+          "confidence": 0.9971314668655396
+        },
+        {
+          "text": "Indonesia memberikan dimensi kebangsaan dalam ilmu pengetahuan. Pengembangan",
+          "confidence": 0.9888070821762085
+        },
+        {
+          "text": "ilmu harus memperkuat persatuan dan kesatuan bangsa. Penting untuk menggali dan",
+          "confidence": 0.9870409369468689
+        },
+        {
+          "text": "mengintegrasikan kearifan lokal Indonesia dalam pengembangan ilmu pengetahuan",
+          "confidence": 0.9979511499404907
+        },
+        {
+          "text": "Nasionalisme ilmiah perlu dikembangkan untuk mencapai kemandirian ilmu",
+          "confidence": 0.995335042476654
+        },
+        {
+          "text": "pengetahuan nasional tanpa isolasi dari perkembangan global. Keragaman pendekatan",
+          "confidence": 0.9996605515480042
+        },
+        {
+          "text": "dan metode keilmuan dari berbagai budaya di Indonesia harus dihargai. Contohnya",
+          "confidence": 0.9989924430847168
+        },
+        {
+          "text": "adalah pengembangan etnobotani yang menggali pengetahuan tradisional tentang.",
+          "confidence": 0.9933546185493469
+        },
+        {
+          "text": "tumbuhan obat dari berbagai daerah di Indonesia. Sila Kerakyatan yang Dipimpin oleh",
+          "confidence": 0.999622642993927
+        },
+        {
+          "text": "Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan menekankan aspek.",
+          "confidence": 0.9896007180213928
+        },
+        {
+          "text": "demokratis dan partisipatif. Pengembangan ilmu harus melibatkan partisipasi",
+          "confidence": 0.9883044362068176
+        },
+        {
+          "text": "masyarakat, tidak hanya domain para ahli. Kebenaran ilmiah dicapai melalui dialog,",
+          "confidence": 0.9954243302345276
+        },
+        {
+          "text": "diskusi, dan musyawarah. Ilmu harus dikembangkan dengan kebijaksanaan yang",
+          "confidence": 0.9960810542106628
+        },
+        {
+          "text": "mempertimbangkan berbagai aspek dan kepentingan. Aktivitas keilmuan harus",
+          "confidence": 0.9916425943374634
+        },
+        {
+          "text": "transparan dan akuntabel kepada masyarakat. Contohnya adalah penelitian berbasis",
+          "confidence": 0.9961650967597961
+        },
+        {
+          "text": "komunitas yang melibatkan masyarakat dalam seluruh proses penelitian. Sila Keadilan",
+          "confidence": 0.9999277591705322
+        },
+        {
+          "text": "Sosial bagi Seluruh Rakyat Indonesia memberikan orientasi pada keadilan dan",
+          "confidence": 0.989271342754364
+        },
+        {
+          "text": "kesejahteraan. Tujuan akhir pengembangan ilmu adalah kesejahteraan dan",
+          "confidence": 0.9977006316184998
+        },
+        {
+          "text": "keadilan sosial bagi seluruh rakyat. Manfaat dari ilmu pengetahuan harus terdistribusi.",
+          "confidence": 0.9906582236289978
+        },
+        {
+          "text": "secara adil. Ilmu harus berkontribusi pada pengurangan kesenjangan sosial-ekonomi",
+          "confidence": 0.9977995157241821
+        },
+        {
+          "text": "dan memberdayakan masyarakat, terutama kelompok marginal. Contohnya adalah",
+          "confidence": 0.988437831401825
+        },
+        {
+          "text": "pengembangan teknologi tepat guna yang dapat dimanfaatkan oleh masyarakat kecil",
+          "confidence": 0.9973806738853455
+        },
+        {
+          "text": "untuk meningkatkan kesejahteraan ekonomi mereka. Berdasarkan kelima sila tersebut,",
+          "confidence": 0.9983986616134644
+        },
+        {
+          "text": "dapat dirumuskan paradigma keilmuan Pancasila yang bersifat holistik- integratif",
+          "confidence": 0.9953529238700867
+        },
+        {
+          "text": "dengan mengintegrasikan dimensi spiritual, material, individu, dan sosial. Paradigma",
+          "confidence": 0.9933695793151855
+        },
+        {
+          "text": "ini bersifat humanistik-religius yang menempatkan manusia dan nilai ketuhanan",
+          "confidence": 0.9899788498878479
+        },
+        {
+          "text": "sebagai pusat, etis-bertanggung jawab yang menekankan tanggung jawab moral,",
+          "confidence": 0.9981452226638794
+        },
+        {
+          "text": "kontekstual yang mempertimbangkan konteks sosial-budaya Indonesia, serta",
+          "confidence": 0.984978973865509
+        },
+        {
+          "text": "berorientasi keadilan yang mengutamakan kesejahteraan bersama.",
+          "confidence": 0.9997263550758362
+        },
+        {
+          "text": "13",
+          "confidence": 0.9969258904457092
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "text": "2.Pancasila sebagai Sistem Etika Etika adalah cabang filsafat yang membahas tentang nilai dan norma moral yang mengatur perilaku manusia. Pancasila sebagai sistem nilai bangsa Indonesia juga mengandung sistem etika yang komprehensif dan khas. Etika Pancasila adalah sistem moral yang bersumber dari nilai-nilai yang terkandung dalam Pancasila dengan karakteristik yang unik. Etika Pancasila bersifat teosentris-antroposentris, yaitu berpusat pada Tuhan sekaligus pada manusia, menyeimbangkan dimensi vertikal (hubungan dengan Tuhan) dan horizontal (hubungan antar manusia). Etika ini juga menyeimbangkan kepentingan kolektif dan individual, tidak ekstrem individualistis seperti liberalisme, tidak pula ekstrem kolektivis seperti komunisme. Sifatnya yang absolut-relatif memiliki nilai-nilai dasar yang absolut namun fleksibel dalam penerapannya sesuai konteks. Etika Pancasila juga bersifat universal-kontekstual, mengandung nilai-nilai universal namun dengan nuansa Indonesia. Setiap sila dalam Pancasila melahirkan prinsip-prinsip etika tertentu. Etika Ketuhanan mengajarkan untuk mengakui dan menghormati eksistensi Tuhan Yang Maha Esa, menjalankan ajaran agama dengan toleran, tidak memaksakan kehendak agama kepada orang lain, menghargai perbedaan keyakinan, dan menjadikan nilai-nilai ketuhanan sebagai panduan moral. Dalam konteks keilmuan, ilmuwan harus sadar bahwa ilmunya adalah amanah dari Tuhan yang akan dipertanggungjawabkan. Etika Kemanusiaan mengajarkan untuk mengakui persamaan derajat, hak, dan kewajiban setiap manusia, menghormati harkat dan martabat manusia, tidak melakukan diskriminasi, berlaku adil terhadap sesama, dan menjunjung tinggi nilai-nilai kemanusiaan.. Dalam konteks keilmuan, penelitian harus menghormati hak-hak subjek penelitian dan tidak memperlakukan manusia sebagai objek semata. Etika Persatuan mengajarkan untuk mengutamakan kepentingan bangsa di atas kepentingan pribadi atau golongan, menghargai keberagaman, memperkuat persatuan dan kesatuan, tidak melakukan tindakan yang memecah belah, dan mengembangkan rasa cinta tanah air. Dalam konteks keilmuan, ilmu harus memperkuat identitas dan kemandirian bangsa Etika Kerakyatan menekankan pentingnya partisipasi dalam pengambilan keputusan, menghargai pendapat orang lain, mengedepankan musyawarah untuk mencapai mufakat, bertanggung jawab atas keputusan bersama, dan tidak memaksakan kehendak. 14",
+      "lines": [
+        {
+          "text": "2.Pancasila sebagai Sistem Etika",
+          "confidence": 0.9864656329154968
+        },
+        {
+          "text": "Etika adalah cabang filsafat yang membahas tentang nilai dan norma moral yang",
+          "confidence": 0.9995445013046265
+        },
+        {
+          "text": "mengatur perilaku manusia. Pancasila sebagai sistem nilai bangsa Indonesia juga",
+          "confidence": 0.9914034008979797
+        },
+        {
+          "text": "mengandung sistem etika yang komprehensif dan khas. Etika Pancasila adalah sistem",
+          "confidence": 0.9997303485870361
+        },
+        {
+          "text": "moral yang bersumber dari nilai-nilai yang terkandung dalam Pancasila dengan",
+          "confidence": 0.9837049245834351
+        },
+        {
+          "text": "karakteristik yang unik. Etika Pancasila bersifat teosentris-antroposentris, yaitu",
+          "confidence": 0.9910038113594055
+        },
+        {
+          "text": "berpusat pada Tuhan sekaligus pada manusia, menyeimbangkan dimensi vertikal",
+          "confidence": 0.9985433220863342
+        },
+        {
+          "text": "(hubungan dengan Tuhan) dan horizontal (hubungan antar manusia). Etika ini juga",
+          "confidence": 0.9995925426483154
+        },
+        {
+          "text": "menyeimbangkan kepentingan kolektif dan individual, tidak ekstrem individualistis",
+          "confidence": 0.9908016920089722
+        },
+        {
+          "text": "seperti liberalisme, tidak pula ekstrem kolektivis seperti komunisme. Sifatnya yang",
+          "confidence": 0.9968279004096985
+        },
+        {
+          "text": "absolut-relatif memiliki nilai-nilai dasar yang absolut namun fleksibel dalam",
+          "confidence": 0.9908644556999207
+        },
+        {
+          "text": "penerapannya sesuai konteks.",
+          "confidence": 0.9983708262443542
+        },
+        {
+          "text": "Etika Pancasila juga bersifat universal-kontekstual, mengandung nilai-nilai",
+          "confidence": 0.9998045563697815
+        },
+        {
+          "text": "universal namun dengan nuansa Indonesia. Setiap sila dalam Pancasila melahirkan",
+          "confidence": 0.983489990234375
+        },
+        {
+          "text": "prinsip-prinsip etika tertentu. Etika Ketuhanan mengajarkan untuk mengakui dan",
+          "confidence": 0.9968162775039673
+        },
+        {
+          "text": "menghormati eksistensi Tuhan Yang Maha Esa, menjalankan ajaran agama dengan",
+          "confidence": 0.9898731708526611
+        },
+        {
+          "text": "toleran, tidak memaksakan kehendak agama kepada orang lain, menghargai perbedaan",
+          "confidence": 0.9996747970581055
+        },
+        {
+          "text": "keyakinan, dan menjadikan nilai-nilai ketuhanan sebagai panduan moral. Dalam",
+          "confidence": 0.9945009350776672
+        },
+        {
+          "text": "konteks keilmuan, ilmuwan harus sadar bahwa ilmunya adalah amanah dari Tuhan",
+          "confidence": 0.9996855854988098
+        },
+        {
+          "text": "yang akan dipertanggungjawabkan. Etika Kemanusiaan mengajarkan untuk mengakui",
+          "confidence": 0.9886115193367004
+        },
+        {
+          "text": "persamaan derajat, hak, dan kewajiban setiap manusia, menghormati harkat dan",
+          "confidence": 0.9928863644599915
+        },
+        {
+          "text": "martabat manusia, tidak melakukan diskriminasi, berlaku adil terhadap sesama, dan",
+          "confidence": 0.9959835410118103
+        },
+        {
+          "text": "menjunjung tinggi nilai-nilai kemanusiaan..",
+          "confidence": 0.9883111715316772
+        },
+        {
+          "text": "Dalam konteks keilmuan, penelitian harus menghormati hak-hak subjek",
+          "confidence": 0.9806118607521057
+        },
+        {
+          "text": "penelitian dan tidak memperlakukan manusia sebagai objek semata. Etika Persatuan",
+          "confidence": 0.9937769174575806
+        },
+        {
+          "text": "mengajarkan untuk mengutamakan kepentingan bangsa di atas kepentingan pribadi",
+          "confidence": 0.9984114766120911
+        },
+        {
+          "text": "atau golongan, menghargai keberagaman, memperkuat persatuan dan kesatuan, tidak",
+          "confidence": 0.9910099506378174
+        },
+        {
+          "text": "melakukan tindakan yang memecah belah, dan mengembangkan rasa cinta tanah air.",
+          "confidence": 0.9997238516807556
+        },
+        {
+          "text": "Dalam konteks keilmuan, ilmu harus memperkuat identitas dan kemandirian bangsa",
+          "confidence": 0.9949937462806702
+        },
+        {
+          "text": "Etika Kerakyatan menekankan pentingnya partisipasi dalam pengambilan",
+          "confidence": 0.9903482794761658
+        },
+        {
+          "text": "keputusan, menghargai pendapat orang lain, mengedepankan musyawarah untuk",
+          "confidence": 0.9895453453063965
+        },
+        {
+          "text": "mencapai mufakat, bertanggung jawab atas keputusan bersama, dan tidak",
+          "confidence": 0.9884998202323914
+        },
+        {
+          "text": "memaksakan kehendak.",
+          "confidence": 0.9998685717582703
+        },
+        {
+          "text": "14",
+          "confidence": 0.9970202445983887
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "text": "Dalam konteks keilmuan, pengembangan ilmu harus melibatkan dialog dan diskusi ilmiah yang demokratis. Etika Keadilan Sosial mengajarkan untuk memperjuangkan kesejahteraan bersama, tidak menimbun kekayaan secara berlebihan, peduli terhadap nasib orang lain, bekerja keras untuk kemajuan bersama, dan tidak melakukan eksploitasi. Dalam konteks keilmuan, hasil penelitian harus dapat dimanfaatkan untuk kesejahteraan masyarakat luas, bukan hanya segelintir  Orang. Implementasi etika Pancasila dalam kehidupan sehari-hari dapat diwujudkan melalui sikap toleransi beragama, menghormati hak asasi manusia, menjaga persatuan dalam keberagaman, berpartisipasi aktif dalam pembangunan, serta memperjuangkan keadilan sosial. Dalam dunia akademik dan profesional, etika Pancasila menuntut kejujuran dalam penelitian, menghormati hak kekayaan intelektual, tidak melakukan plagiarisme, bertanggung jawab atas dampak penelitian, dan mengutamakan kepentingan masyarakat. B. Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan Agama Kemajuan semangat keilmuan di antara nilai budaya dan agama menunjukkan bahwa keduanya memiliki kontribusi besar terhadap perkembangan ilmu pengetahuan, meskipun melalui pendekatan yang berbeda namun saling melengkapi. Nilai budaya mendorong manusia untuk berpikir kritis, kreatif, dan inovatif dalam menghadapi berbagai tantangan kehidupan. Dalam budaya Indonesia, semangat keilmuan telah tumbuh dari tradisi masyarakat yang gemar belajar, berdiskusi, dan menemukan solusi. berdasarkan pengalaman dan kearifan lokal. Nilai-nilai seperti gotong royong, rasa ingin tahu, serta sikap adaptif terhadap lingkungan merupakan bentuk nyata semangat keilmuan dalam budaya yang terus diwariskan lintas generasi. Sementara itu, nilai agama memberikan arah dan landasan moral bagi semangat keilmuan agar ilmu pengetahuan tidak hanya digunakan untuk kepentingan duniawi,. tetapi juga untuk kemaslahatan umat manusia dan mendekatkan diri kepada Tuhan. Agama mengajarkan bahwa mencari ilmu merupakan kewajiban sekaligus bentuk. ibadah, sehingga setiap kegiatan ilmiah harus disertai dengan niat yang baik, kejujuran,. dan tanggung jawab moral. 15",
+      "lines": [
+        {
+          "text": "Dalam konteks keilmuan, pengembangan ilmu harus melibatkan dialog dan",
+          "confidence": 0.9941002726554871
+        },
+        {
+          "text": "diskusi ilmiah yang demokratis. Etika Keadilan Sosial mengajarkan untuk",
+          "confidence": 0.9883692860603333
+        },
+        {
+          "text": "memperjuangkan kesejahteraan bersama, tidak menimbun kekayaan secara",
+          "confidence": 0.9890992641448975
+        },
+        {
+          "text": "berlebihan, peduli terhadap nasib orang lain, bekerja keras untuk kemajuan bersama,",
+          "confidence": 0.9962137937545776
+        },
+        {
+          "text": "dan tidak melakukan eksploitasi. Dalam konteks keilmuan, hasil penelitian harus",
+          "confidence": 0.9964759945869446
+        },
+        {
+          "text": "dapat dimanfaatkan untuk kesejahteraan masyarakat luas, bukan hanya segelintir",
+          "confidence": 0.9903734922409058
+        },
+        {
+          "text": " Orang.",
+          "confidence": 0.8203095197677612
+        },
+        {
+          "text": "Implementasi etika Pancasila dalam kehidupan sehari-hari dapat diwujudkan",
+          "confidence": 0.9991829991340637
+        },
+        {
+          "text": "melalui sikap toleransi beragama, menghormati hak asasi manusia, menjaga persatuan",
+          "confidence": 0.9910483956336975
+        },
+        {
+          "text": "dalam keberagaman, berpartisipasi aktif dalam pembangunan, serta memperjuangkan",
+          "confidence": 0.9943327903747559
+        },
+        {
+          "text": "keadilan sosial. Dalam dunia akademik dan profesional, etika Pancasila menuntut",
+          "confidence": 0.9961711764335632
+        },
+        {
+          "text": "kejujuran dalam penelitian, menghormati hak kekayaan intelektual, tidak melakukan",
+          "confidence": 0.9889541268348694
+        },
+        {
+          "text": "plagiarisme, bertanggung jawab atas dampak penelitian, dan mengutamakan",
+          "confidence": 0.9896477460861206
+        },
+        {
+          "text": "kepentingan masyarakat.",
+          "confidence": 0.9840876460075378
+        },
+        {
+          "text": "B. Membandingkan Kemajuan Semangat Keilmuan di Antara Nilai Budaya dan",
+          "confidence": 0.9836499691009521
+        },
+        {
+          "text": "Agama",
+          "confidence": 0.9992469549179077
+        },
+        {
+          "text": "Kemajuan semangat keilmuan di antara nilai budaya dan agama menunjukkan",
+          "confidence": 0.9909501671791077
+        },
+        {
+          "text": "bahwa keduanya memiliki kontribusi besar terhadap perkembangan ilmu pengetahuan,",
+          "confidence": 0.9952694177627563
+        },
+        {
+          "text": "meskipun melalui pendekatan yang berbeda namun saling melengkapi. Nilai budaya",
+          "confidence": 0.997733473777771
+        },
+        {
+          "text": "mendorong manusia untuk berpikir kritis, kreatif, dan inovatif dalam menghadapi",
+          "confidence": 0.9936242699623108
+        },
+        {
+          "text": "berbagai tantangan kehidupan. Dalam budaya Indonesia, semangat keilmuan telah",
+          "confidence": 0.9942437410354614
+        },
+        {
+          "text": "tumbuh dari tradisi masyarakat yang gemar belajar, berdiskusi, dan menemukan solusi.",
+          "confidence": 0.9972785711288452
+        },
+        {
+          "text": "berdasarkan pengalaman dan kearifan lokal. Nilai-nilai seperti gotong royong, rasa",
+          "confidence": 0.993537187576294
+        },
+        {
+          "text": "ingin tahu, serta sikap adaptif terhadap lingkungan merupakan bentuk nyata semangat",
+          "confidence": 0.9878840446472168
+        },
+        {
+          "text": "keilmuan dalam budaya yang terus diwariskan lintas generasi.",
+          "confidence": 0.9815205931663513
+        },
+        {
+          "text": "Sementara itu, nilai agama memberikan arah dan landasan moral bagi semangat",
+          "confidence": 0.9968218803405762
+        },
+        {
+          "text": "keilmuan agar ilmu pengetahuan tidak hanya digunakan untuk kepentingan duniawi,.",
+          "confidence": 0.9971252679824829
+        },
+        {
+          "text": "tetapi juga untuk kemaslahatan umat manusia dan mendekatkan diri kepada Tuhan.",
+          "confidence": 0.9978204369544983
+        },
+        {
+          "text": "Agama mengajarkan bahwa mencari ilmu merupakan kewajiban sekaligus bentuk.",
+          "confidence": 0.9910887479782104
+        },
+        {
+          "text": "ibadah, sehingga setiap kegiatan ilmiah harus disertai dengan niat yang baik, kejujuran,.",
+          "confidence": 0.9919005632400513
+        },
+        {
+          "text": "dan tanggung jawab moral.",
+          "confidence": 0.9977112412452698
+        },
+        {
+          "text": "15",
+          "confidence": 0.9988203048706055
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "text": "Dengan demikian, budaya berperan sebagai wadah yang menumbuhkan rasa. ingin tahu dan kreativitas, sedangkan agama berfungsi sebagai kompas moral yang menjaga agar semangat keilmuan tetap berpihak pada kebenaran dan keadilan. Perbandingan ini menunjukkan bahwa nilai budaya lebih menekankan pada aspek sosial dan adaptif dalam pengembangan ilmu, sementara nilai agama lebih menekankan pada aspek spiritual dan moral. Namun, keduanya tidak dapat dipisahkan karena saling memperkuat. Apabila semangat keilmuan dikembangkan hanya berdasarkan budaya tanpa agama, ilmu bisa kehilangan arah moral; sebaliknya, jika hanya mengandalkan  agama tanpa membuka diri terhadap dinamika budaya, ilmu bisa kehilangan inovasi dan kemajuan. Oleh karena itu, perpaduan antara keduanya merupakan kunci untuk membangun kemajuan keilmuan yang berkarakter, beretika, dan berkeadaban.. C. Perkembangan Ilmu Bersentuhan dengan Budaya dan Agama Perkembangan ilmu pengetahuan tidak pernah berdiri sendiri, melainkan selalu. berinteraksi dengan budaya dan agama yang hidup dalam masyarakat. Budaya dan agama menjadi dua pilar penting yang membentuk arah, tujuan, serta cara manusia mengembangkan dan memanfaatkan ilmu. Sejak zaman dahulu, pengetahuan manusia lahir dari upaya memahami alam, kehidupan, dan dirinya sendiri. Dalam proses tersebut, budaya memberikan wadah berupa kebiasaan berpikir, berinteraksi, serta berinovasi sesuai dengan nilai-nilai sosial yang berkembang. Sementara itu, agama nannnnnan annnn nann nnnnn nannnnn nnnnnnnnn nnnn nnnnn nnnnnnann nnnnnnnnnan secara bijaksana demi kesejahteraan dan kebaikan bersama.. Dalam konteks bangsa Indonesia, perkembangan ilmu pengetahuan selalu. diwarnai oleh nilai-nilai budaya dan ajaran agama yang kuat. Budaya lokal yang beragam menjadikan cara pandang terhadap ilmu lebih terbuka dan adaptif terhadap lingkungan sosialnya. Misalnya, dalam bidang pertanian, penerapan teknologi modern sering kali dipadukan dengan kearifan lokal seperti sistem tanam bergilir atau penggunaan bahan alami agar tidak merusak kesuburan tanah dan menjaga keseimbangan ekosistem. Begitu pula dalam bidang kesehatan, pengobatan modern sering dipadukan dengan pengobatan tradisional yang bersumber dari pengetahuan turun-temurun masyarakat, sehingga menghasilkan pendekatan yang lebih manusiawi dan kontekstual. 16",
+      "lines": [
+        {
+          "text": "Dengan demikian, budaya berperan sebagai wadah yang menumbuhkan rasa.",
+          "confidence": 0.9879790544509888
+        },
+        {
+          "text": "ingin tahu dan kreativitas, sedangkan agama berfungsi sebagai kompas moral yang",
+          "confidence": 0.9981421828269958
+        },
+        {
+          "text": "menjaga agar semangat keilmuan tetap berpihak pada kebenaran dan keadilan.",
+          "confidence": 0.9985235929489136
+        },
+        {
+          "text": "Perbandingan ini menunjukkan bahwa nilai budaya lebih menekankan pada aspek",
+          "confidence": 0.9990081787109375
+        },
+        {
+          "text": "sosial dan adaptif dalam pengembangan ilmu, sementara nilai agama lebih menekankan",
+          "confidence": 0.9994685649871826
+        },
+        {
+          "text": "pada aspek spiritual dan moral. Namun, keduanya tidak dapat dipisahkan karena saling",
+          "confidence": 0.9913395643234253
+        },
+        {
+          "text": "memperkuat. Apabila semangat keilmuan dikembangkan hanya berdasarkan budaya",
+          "confidence": 0.9915059208869934
+        },
+        {
+          "text": "tanpa agama, ilmu bisa kehilangan arah moral; sebaliknya, jika hanya mengandalkan",
+          "confidence": 0.9990296363830566
+        },
+        {
+          "text": " agama tanpa membuka diri terhadap dinamika budaya, ilmu bisa kehilangan inovasi",
+          "confidence": 0.9928411245346069
+        },
+        {
+          "text": "dan kemajuan. Oleh karena itu, perpaduan antara keduanya merupakan kunci untuk",
+          "confidence": 0.9997497797012329
+        },
+        {
+          "text": "membangun kemajuan keilmuan yang berkarakter, beretika, dan berkeadaban..",
+          "confidence": 0.9927128553390503
+        },
+        {
+          "text": "C. Perkembangan Ilmu Bersentuhan dengan Budaya dan Agama",
+          "confidence": 0.996601939201355
+        },
+        {
+          "text": "Perkembangan ilmu pengetahuan tidak pernah berdiri sendiri, melainkan selalu.",
+          "confidence": 0.9851476550102234
+        },
+        {
+          "text": "berinteraksi dengan budaya dan agama yang hidup dalam masyarakat. Budaya dan",
+          "confidence": 0.9986249804496765
+        },
+        {
+          "text": "agama menjadi dua pilar penting yang membentuk arah, tujuan, serta cara manusia",
+          "confidence": 0.9878885746002197
+        },
+        {
+          "text": "mengembangkan dan memanfaatkan ilmu. Sejak zaman dahulu, pengetahuan manusia",
+          "confidence": 0.9993460774421692
+        },
+        {
+          "text": "lahir dari upaya memahami alam, kehidupan, dan dirinya sendiri. Dalam proses",
+          "confidence": 0.9983929991722107
+        },
+        {
+          "text": "tersebut, budaya memberikan wadah berupa kebiasaan berpikir, berinteraksi, serta",
+          "confidence": 0.9994134902954102
+        },
+        {
+          "text": "berinovasi sesuai dengan nilai-nilai sosial yang berkembang. Sementara itu, agama",
+          "confidence": 0.993941605091095
+        },
+        {
+          "text": "nannnnnan annnn nann nnnnn nannnnn nnnnnnnnn nnnn nnnnn nnnnnnann nnnnnnnnnan",
+          "confidence": 0.5523555874824524
+        },
+        {
+          "text": "secara bijaksana demi kesejahteraan dan kebaikan bersama..",
+          "confidence": 0.990813672542572
+        },
+        {
+          "text": "Dalam konteks bangsa Indonesia, perkembangan ilmu pengetahuan selalu.",
+          "confidence": 0.9960350394248962
+        },
+        {
+          "text": "diwarnai oleh nilai-nilai budaya dan ajaran agama yang kuat. Budaya lokal yang",
+          "confidence": 0.9886130094528198
+        },
+        {
+          "text": "beragam menjadikan cara pandang terhadap ilmu lebih terbuka dan adaptif terhadap",
+          "confidence": 0.9999380111694336
+        },
+        {
+          "text": "lingkungan sosialnya. Misalnya, dalam bidang pertanian, penerapan teknologi modern",
+          "confidence": 0.996621310710907
+        },
+        {
+          "text": "sering kali dipadukan dengan kearifan lokal seperti sistem tanam bergilir atau",
+          "confidence": 0.9934744238853455
+        },
+        {
+          "text": "penggunaan bahan alami agar tidak merusak kesuburan tanah dan menjaga",
+          "confidence": 0.9748294353485107
+        },
+        {
+          "text": "keseimbangan ekosistem. Begitu pula dalam bidang kesehatan, pengobatan modern",
+          "confidence": 0.9997410178184509
+        },
+        {
+          "text": "sering dipadukan dengan pengobatan tradisional yang bersumber dari pengetahuan",
+          "confidence": 0.9929630756378174
+        },
+        {
+          "text": "turun-temurun masyarakat, sehingga menghasilkan pendekatan yang lebih manusiawi",
+          "confidence": 0.9946985244750977
+        },
+        {
+          "text": "dan kontekstual.",
+          "confidence": 0.9964324235916138
+        },
+        {
+          "text": "16",
+          "confidence": 0.9975540041923523
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "text": "Di sisi lain, ajaran agama memberikan pedoman etis agar perkembangan ilmu tidak disalahgunakan. Agama mengingatkan manusia untuk menempatkan ilmu dalam kerangka tanggung jawab moral dan spiritual. Ilmu yang dikuasai tanpa dilandasi nilai keimanan dapat menimbulkan penyalahgunaan, seperti eksploitasi sumber daya alam secara berlebihan, manipulasi informasi, hingga penciptaan teknologi yang merugikan kemanusiaan. Karena itu, nilai-nilai keagamaan berperan sebagai pagar moral yang menjaga agar ilmu digunakan untuk kemaslahatan, bukan kerusakan.Keterkaitan antara ilmu, budaya, dan agama juga mencerminkan penerapan nilai-nilai Pancasila dalam kehidupan ilmiah.. Sila pertama menegaskan pentingnya keyakinan kepada Tuhan sebagai sumber tetap menjunjung kemanusiaan dan memperkuat persatuan bangsa. Sila keempat dan kelima menuntun agar ilmu diterapkan melalui musyawarah, keadilan, dan kesejahteraan bagi seluruh rakyat. Dengan demikian, Pancasila menjadi titik temu antara rasionalitas ilmu, nilai budaya, dan spiritualitas agama. Harmoni antara ilmu, budaya, dan agama akan melahirkan peradaban yang berimbang antara kemajuan intelektual dan kematangan moral.. Ilmu membantu manusia memahami realitas secara objektif, budaya memperkaya cara hidup dan nilai sosial, sedangkan agama mengarahkan manusia untuk tetap berpegang pada kebenaran dan tanggung jawab moral. Ketiganya membentuk sinergi yang menjaga agar kemajuan teknologi tidak menghilangkan nilai kemanusiaan, serta agar kemajuan berpikir tetap berakar pada moral dan keimanan. Oleh karena itu, pengembangan ilmu pengetahuan di Indonesia seharusnya selalu berpijak pada nilai budaya dan ajaran agama yang selaras dengan Pancasila.. Dengan begitu, kemajuan ilmu tidak hanya mengejar aspek material dan rasionalitas, tetapi juga mengedepankan keseimbangan, etika, dan tanggung jawab terhadap Tuhan, sesama manusia, serta alam semesta. Inilah yang menjadi jati diri pengembangan ilmu di Indonesia ilmu yang tidak terpisah dari moralitas dan spiritualitas, melainkan menjadi sarana untuk membangun kehidupan yang berkeadilan, beradab, dan berkepribadian luhur.. 17",
+      "lines": [
+        {
+          "text": "Di sisi lain, ajaran agama memberikan pedoman etis agar perkembangan ilmu",
+          "confidence": 0.9955921769142151
+        },
+        {
+          "text": "tidak disalahgunakan. Agama mengingatkan manusia untuk menempatkan ilmu dalam",
+          "confidence": 0.9913621544837952
+        },
+        {
+          "text": "kerangka tanggung jawab moral dan spiritual. Ilmu yang dikuasai tanpa dilandasi nilai",
+          "confidence": 0.9980255365371704
+        },
+        {
+          "text": "keimanan dapat menimbulkan penyalahgunaan, seperti eksploitasi sumber daya alam",
+          "confidence": 0.9945262670516968
+        },
+        {
+          "text": "secara berlebihan, manipulasi informasi, hingga penciptaan teknologi yang merugikan",
+          "confidence": 0.9982250332832336
+        },
+        {
+          "text": "kemanusiaan. Karena itu, nilai-nilai keagamaan berperan sebagai pagar moral yang",
+          "confidence": 0.9910575151443481
+        },
+        {
+          "text": "menjaga agar ilmu digunakan untuk kemaslahatan, bukan kerusakan.Keterkaitan antara",
+          "confidence": 0.9999590516090393
+        },
+        {
+          "text": "ilmu, budaya, dan agama juga mencerminkan penerapan nilai-nilai Pancasila dalam",
+          "confidence": 0.9994116425514221
+        },
+        {
+          "text": "kehidupan ilmiah..",
+          "confidence": 0.9634668827056885
+        },
+        {
+          "text": "Sila pertama menegaskan pentingnya keyakinan kepada Tuhan sebagai sumber",
+          "confidence": 0.9997170567512512
+        },
+        {
+          "text": "tetap menjunjung kemanusiaan dan memperkuat persatuan bangsa. Sila keempat dan",
+          "confidence": 0.995936393737793
+        },
+        {
+          "text": "kelima menuntun agar ilmu diterapkan melalui musyawarah, keadilan, dan",
+          "confidence": 0.9919672012329102
+        },
+        {
+          "text": "kesejahteraan bagi seluruh rakyat. Dengan demikian, Pancasila menjadi titik temu",
+          "confidence": 0.9953552484512329
+        },
+        {
+          "text": "antara rasionalitas ilmu, nilai budaya, dan spiritualitas agama. Harmoni antara ilmu,",
+          "confidence": 0.9955896735191345
+        },
+        {
+          "text": "budaya, dan agama akan melahirkan peradaban yang berimbang antara kemajuan",
+          "confidence": 0.9990015625953674
+        },
+        {
+          "text": "intelektual dan kematangan moral..",
+          "confidence": 0.9822946190834045
+        },
+        {
+          "text": "Ilmu membantu manusia memahami realitas secara objektif, budaya",
+          "confidence": 0.995678722858429
+        },
+        {
+          "text": "memperkaya cara hidup dan nilai sosial, sedangkan agama mengarahkan manusia untuk",
+          "confidence": 0.9930441379547119
+        },
+        {
+          "text": "tetap berpegang pada kebenaran dan tanggung jawab moral. Ketiganya membentuk",
+          "confidence": 0.9998565316200256
+        },
+        {
+          "text": "sinergi yang menjaga agar kemajuan teknologi tidak menghilangkan nilai kemanusiaan,",
+          "confidence": 0.9920825362205505
+        },
+        {
+          "text": "serta agar kemajuan berpikir tetap berakar pada moral dan keimanan. Oleh karena itu,",
+          "confidence": 0.9929875135421753
+        },
+        {
+          "text": "pengembangan ilmu pengetahuan di Indonesia seharusnya selalu berpijak pada nilai",
+          "confidence": 0.9999292492866516
+        },
+        {
+          "text": "budaya dan ajaran agama yang selaras dengan Pancasila..",
+          "confidence": 0.9839555025100708
+        },
+        {
+          "text": "Dengan begitu, kemajuan ilmu tidak hanya mengejar aspek material dan",
+          "confidence": 0.9956494569778442
+        },
+        {
+          "text": "rasionalitas, tetapi juga mengedepankan keseimbangan, etika, dan tanggung jawab",
+          "confidence": 0.9880685806274414
+        },
+        {
+          "text": "terhadap Tuhan, sesama manusia, serta alam semesta. Inilah yang menjadi jati diri",
+          "confidence": 0.9942185282707214
+        },
+        {
+          "text": "pengembangan ilmu di Indonesia ilmu yang tidak terpisah dari moralitas dan",
+          "confidence": 0.9861036539077759
+        },
+        {
+          "text": "spiritualitas, melainkan menjadi sarana untuk membangun kehidupan yang berkeadilan,",
+          "confidence": 0.9905860424041748
+        },
+        {
+          "text": "beradab, dan berkepribadian luhur..",
+          "confidence": 0.9821820855140686
+        },
+        {
+          "text": "17",
+          "confidence": 0.9978411197662354
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "text": "D. Kaitan Perkembangan Keilmuan dan Dampaknya terhadap Nilai Budaya dan Agama dalam Hidup Sehari-hari Kaitan antara perkembangan keilmuan dan dampaknya terhadap nilai budaya serta agama dalam kehidupan sehari-hari menunjukkan hubungan timbal balik yang. kompleks. Perkembangan ilmu membawa perubahan besar dalam berbagai aspek kehidupan, seperti komunikasi, pendidikan, ekonomi, dan sosial. Kemajuan teknologi misalnya, mempermudah manusia dalam memperoleh informasi dan meningkatkan efisiensi kerja, tetapi juga berpotensi mengubah cara berpikir dan berperilaku masyarakat. Di sinilah peran nilai budaya dan agama menjadi penting sebagai  pengendali moral agar manusia tetap menggunakan ilmu dengan bijak. Dalam kehidupan sehari-hari, ilmu yang berkembang tanpa diimbangi nilai budaya dan agama dapat menimbulkan dampak negatif seperti krisis moral menurunnya rasa solidaritas sosial, dan hilangnya nilai-nilai luhur bangsa. Misalnya, kemajuan media digital memang mempercepat komunikasi, tetapi jika disalahgunakan bisa memunculkan penyebaran hoaks, ujaran kebencian, dan perilaku konsumtif. Oleh karena itu, nilai budaya berfungsi untuk menjaga keseimbangan sosial, menanamkan rasa kebersamaan, dan mempertahankan identitas bangsa, sementara nilai agama. berfungsi untuk membimbing manusia agar setiap tindakan yang diambil selalu bernilai ibadah dan bertanggung jawab secara moral di hadapan Tuhan. Apabila perkembangan ilmu diarahkan sesuai dengan nilai-nilai budaya dan ajaran agama, maka kemajuan yang dihasilkan akan berdampak positif. Misalnya, pemanfaatan teknologi untuk kegiatan keagamaan, pendidikan, dan sosial budaya dapat memperkuat rasa solidaritas, memperluas wawasan keilmuan, serta meningkatkan kesadaran moral masyarakat. Dengan demikian, hubungan antara ilmu, budaya, dan agama harus dijaga dalam keseimbangan yang harmonis. Ilmu memberikan kemajuan rasional, budaya memberikan jati diri, dan agama memberikan pedoman moral. Ketiganya bersama- sama membentuk manusia Indonesia yang berilmu, beretika, beriman, dan berbudaya sesuai dengan cita-cita Pancasila sebagai dasar pengembangan.  ilmu dan sistem etika dalam kehidupan bangsa. 18",
+      "lines": [
+        {
+          "text": "D. Kaitan Perkembangan Keilmuan dan Dampaknya terhadap Nilai Budaya dan",
+          "confidence": 0.998623251914978
+        },
+        {
+          "text": "Agama dalam Hidup Sehari-hari",
+          "confidence": 0.9967944025993347
+        },
+        {
+          "text": "Kaitan antara perkembangan keilmuan dan dampaknya terhadap nilai budaya",
+          "confidence": 0.9965670108795166
+        },
+        {
+          "text": "serta agama dalam kehidupan sehari-hari menunjukkan hubungan timbal balik yang.",
+          "confidence": 0.9868587255477905
+        },
+        {
+          "text": "kompleks. Perkembangan ilmu membawa perubahan besar dalam berbagai aspek",
+          "confidence": 0.9954304099082947
+        },
+        {
+          "text": "kehidupan, seperti komunikasi, pendidikan, ekonomi, dan sosial. Kemajuan teknologi",
+          "confidence": 0.9984258413314819
+        },
+        {
+          "text": "misalnya, mempermudah manusia dalam memperoleh informasi dan meningkatkan",
+          "confidence": 0.999805212020874
+        },
+        {
+          "text": "efisiensi kerja, tetapi juga berpotensi mengubah cara berpikir dan berperilaku",
+          "confidence": 0.993830144405365
+        },
+        {
+          "text": "masyarakat. Di sinilah peran nilai budaya dan agama menjadi penting sebagai",
+          "confidence": 0.9863250851631165
+        },
+        {
+          "text": " pengendali moral agar manusia tetap menggunakan ilmu dengan bijak.",
+          "confidence": 0.9861944317817688
+        },
+        {
+          "text": "Dalam kehidupan sehari-hari, ilmu yang berkembang tanpa diimbangi nilai",
+          "confidence": 0.995573103427887
+        },
+        {
+          "text": "budaya dan agama dapat menimbulkan dampak negatif seperti krisis moral",
+          "confidence": 0.9910141825675964
+        },
+        {
+          "text": "menurunnya rasa solidaritas sosial, dan hilangnya nilai-nilai luhur bangsa. Misalnya,",
+          "confidence": 0.9988978505134583
+        },
+        {
+          "text": "kemajuan media digital memang mempercepat komunikasi, tetapi jika disalahgunakan",
+          "confidence": 0.9967485666275024
+        },
+        {
+          "text": "bisa memunculkan penyebaran hoaks, ujaran kebencian, dan perilaku konsumtif. Oleh",
+          "confidence": 0.9870469570159912
+        },
+        {
+          "text": "karena itu, nilai budaya berfungsi untuk menjaga keseimbangan sosial, menanamkan",
+          "confidence": 0.9940382838249207
+        },
+        {
+          "text": "rasa kebersamaan, dan mempertahankan identitas bangsa, sementara nilai agama.",
+          "confidence": 0.9909572601318359
+        },
+        {
+          "text": "berfungsi untuk membimbing manusia agar setiap tindakan yang diambil selalu bernilai",
+          "confidence": 0.9992915391921997
+        },
+        {
+          "text": "ibadah dan bertanggung jawab secara moral di hadapan Tuhan.",
+          "confidence": 0.9915974736213684
+        },
+        {
+          "text": "Apabila perkembangan ilmu diarahkan sesuai dengan nilai-nilai budaya dan",
+          "confidence": 0.9954383373260498
+        },
+        {
+          "text": "ajaran agama, maka kemajuan yang dihasilkan akan berdampak positif. Misalnya,",
+          "confidence": 0.9956958293914795
+        },
+        {
+          "text": "pemanfaatan teknologi untuk kegiatan keagamaan, pendidikan, dan sosial budaya dapat",
+          "confidence": 0.9998074173927307
+        },
+        {
+          "text": "memperkuat rasa solidaritas, memperluas wawasan keilmuan, serta meningkatkan",
+          "confidence": 0.987890362739563
+        },
+        {
+          "text": "kesadaran moral masyarakat. Dengan demikian, hubungan antara ilmu, budaya, dan",
+          "confidence": 0.9920355081558228
+        },
+        {
+          "text": "agama harus dijaga dalam keseimbangan yang harmonis. Ilmu memberikan kemajuan",
+          "confidence": 0.9939903020858765
+        },
+        {
+          "text": "rasional, budaya memberikan jati diri, dan agama memberikan pedoman moral.",
+          "confidence": 0.9980080127716064
+        },
+        {
+          "text": "Ketiganya bersama- sama membentuk manusia Indonesia yang berilmu, beretika,",
+          "confidence": 0.995374858379364
+        },
+        {
+          "text": "beriman, dan berbudaya sesuai dengan cita-cita Pancasila sebagai dasar pengembangan.",
+          "confidence": 0.9932173490524292
+        },
+        {
+          "text": " ilmu dan sistem etika dalam kehidupan bangsa.",
+          "confidence": 0.994056224822998
+        },
+        {
+          "text": "18",
+          "confidence": 0.9984544515609741
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "text": "BAB IV PENUTUP Berdasarkan pembahasan sebelumnya, dapat disimpulkan bahwa *Pancasila berperan sebagai dasar utama dalam pengembangan ilmu pengetahuan dan sistem etika di Indonesia.Nilai-nilai yang terkandung dalam setiap sila Pancasila menjadi pedoman dalam mengarahkan perkembangan ilmu agar tidak hanya berorientasi pada kemajuan material,.  tetapi juga menjunjung tinggi moralitas, kemanusiaan, dan tanggung jawab sosial. Budaya dan agama memiliki peran penting dalam membentuk semangat keilmuan bangsa Budaya menumbuhkan kreativitas dan kemandirian berpikir, sementara agama memberikan landasan moral dan spiritual agar ilmu digunakan untuk kebaikan bersama. Keduanya saling melengkapi dan menciptakan keseimbangan antara rasionalitas dan spiritualitas dalam kehidupan. Perkembangan ilmu yang bersentuhan dengan budaya dan agama menunjukkan bahwa kemajuan pengetahuan harus sejalan dengan nilai-nilai moral dan kearifan lokal. Ilmu tanpa nilai budaya dan agama dapat menimbulkan krisis moral dan sosial, sedangkan ilmu yang berlandaskan keduanya akan membawa manfaat besar bagi kemanusiaan dan kesejahteraan masyarakat. Dengan demikian, dapat ditegaskan bahwa Pancasila merupakan fondasi moral dan filosofis dalam pengembangan ilmu di Indonesia. Sinergi antara ilmu pengetahuan, budaya, dan agama harus terus dijaga agar kemajuan bangsa tidak hanya menciptakan kecerdasan intelektual, tetapi juga melahirkan manusia yang beriman, beretika, dan berkeadaban sesuai cita-cita luhur bangsa. 19",
+      "lines": [
+        {
+          "text": "BAB IV",
+          "confidence": 0.9410657286643982
+        },
+        {
+          "text": "PENUTUP",
+          "confidence": 0.9749469757080078
+        },
+        {
+          "text": "Berdasarkan pembahasan sebelumnya, dapat disimpulkan bahwa *Pancasila",
+          "confidence": 0.9876769781112671
+        },
+        {
+          "text": "berperan sebagai dasar utama dalam pengembangan ilmu pengetahuan dan sistem etika di",
+          "confidence": 0.9939656257629395
+        },
+        {
+          "text": "Indonesia.Nilai-nilai yang terkandung dalam setiap sila Pancasila menjadi pedoman dalam",
+          "confidence": 0.9987032413482666
+        },
+        {
+          "text": "mengarahkan perkembangan ilmu agar tidak hanya berorientasi pada kemajuan material,.",
+          "confidence": 0.9897686839103699
+        },
+        {
+          "text": " tetapi juga menjunjung tinggi moralitas, kemanusiaan, dan tanggung jawab sosial.",
+          "confidence": 0.9872229099273682
+        },
+        {
+          "text": "Budaya dan agama memiliki peran penting dalam membentuk semangat keilmuan bangsa",
+          "confidence": 0.9995595812797546
+        },
+        {
+          "text": "Budaya menumbuhkan kreativitas dan kemandirian berpikir, sementara agama memberikan",
+          "confidence": 0.9981730580329895
+        },
+        {
+          "text": "landasan moral dan spiritual agar ilmu digunakan untuk kebaikan bersama. Keduanya saling",
+          "confidence": 0.9889035820960999
+        },
+        {
+          "text": "melengkapi dan menciptakan keseimbangan antara rasionalitas dan spiritualitas dalam",
+          "confidence": 0.9979122877120972
+        },
+        {
+          "text": "kehidupan.",
+          "confidence": 0.9557502865791321
+        },
+        {
+          "text": "Perkembangan ilmu yang bersentuhan dengan budaya dan agama menunjukkan bahwa",
+          "confidence": 0.9998703002929688
+        },
+        {
+          "text": "kemajuan pengetahuan harus sejalan dengan nilai-nilai moral dan kearifan lokal. Ilmu tanpa",
+          "confidence": 0.994232714176178
+        },
+        {
+          "text": "nilai budaya dan agama dapat menimbulkan krisis moral dan sosial, sedangkan ilmu yang",
+          "confidence": 0.9970290064811707
+        },
+        {
+          "text": "berlandaskan keduanya akan membawa manfaat besar bagi kemanusiaan dan kesejahteraan",
+          "confidence": 0.999699592590332
+        },
+        {
+          "text": "masyarakat. Dengan demikian, dapat ditegaskan bahwa Pancasila merupakan fondasi moral dan",
+          "confidence": 0.9855683445930481
+        },
+        {
+          "text": "filosofis dalam pengembangan ilmu di Indonesia. Sinergi antara ilmu pengetahuan, budaya, dan",
+          "confidence": 0.9967324733734131
+        },
+        {
+          "text": "agama harus terus dijaga agar kemajuan bangsa tidak hanya menciptakan kecerdasan",
+          "confidence": 0.9918216466903687
+        },
+        {
+          "text": "intelektual, tetapi juga melahirkan manusia yang beriman, beretika, dan berkeadaban sesuai",
+          "confidence": 0.9931309223175049
+        },
+        {
+          "text": "cita-cita luhur bangsa.",
+          "confidence": 0.9942691922187805
+        },
+        {
+          "text": "19",
+          "confidence": 0.9983952045440674
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "text": "DAFTAR PUSTAKA Darmodiharjo, Darji dan Shidarta. (2oo6). Pokok-Pokok Filsafat Hukum: Apa dan Bagaimana Filsafat Hukum Indonesia. Jakarta: Gramedia Pustaka Utama. Kaelan. (2013). Negara Kebangsaan Pancasila: Kultural, Historis, Filosofis, Yuridis, dan Aktualisasinya. Yogyakarta: Paradigma. Latif, Yudi. (2011). Negara Paripurna: Historisitas, Rasionalitas, dan Aktualitas Pancasila. Jakarta: Gramedia Pustaka Utama.. Notonagoro. (1975). Pancasila Secara Ilmiah Populer. Jakarta: Pantjuran Tudjuh Salam, Burhanuddin. (2011). Filsafat Pancasilaisme. Jakarta: Rineka Cipta. Sutrisno, Slamet. (2o06). Filsafat dan Ideologi Pancasila. Yogyakarta: Andi Offset. Tim Penyusun. (2016). Pendidikan Pancasila untuk Perguruan Tinggi. Jakarta: Direktorat Jenderal Pembelajaran dan Kemahasiswaan Kementerian Riset, Teknologi, dan Pendidikan Tinggi. 20",
+      "lines": [
+        {
+          "text": "DAFTAR PUSTAKA",
+          "confidence": 0.9996818900108337
+        },
+        {
+          "text": "Darmodiharjo, Darji dan Shidarta. (2oo6). Pokok-Pokok Filsafat Hukum: Apa dan Bagaimana",
+          "confidence": 0.9849523901939392
+        },
+        {
+          "text": "Filsafat Hukum Indonesia. Jakarta: Gramedia Pustaka Utama.",
+          "confidence": 0.9957690834999084
+        },
+        {
+          "text": "Kaelan. (2013). Negara Kebangsaan Pancasila: Kultural, Historis, Filosofis, Yuridis, dan",
+          "confidence": 0.9995841979980469
+        },
+        {
+          "text": "Aktualisasinya. Yogyakarta: Paradigma.",
+          "confidence": 0.9981831908226013
+        },
+        {
+          "text": "Latif, Yudi. (2011). Negara Paripurna: Historisitas, Rasionalitas, dan Aktualitas Pancasila.",
+          "confidence": 0.9982866048812866
+        },
+        {
+          "text": "Jakarta: Gramedia Pustaka Utama..",
+          "confidence": 0.9803352355957031
+        },
+        {
+          "text": "Notonagoro. (1975). Pancasila Secara Ilmiah Populer. Jakarta: Pantjuran Tudjuh",
+          "confidence": 0.9905531406402588
+        },
+        {
+          "text": "Salam, Burhanuddin. (2011). Filsafat Pancasilaisme. Jakarta: Rineka Cipta.",
+          "confidence": 0.9942948818206787
+        },
+        {
+          "text": "Sutrisno, Slamet. (2o06). Filsafat dan Ideologi Pancasila. Yogyakarta: Andi Offset.",
+          "confidence": 0.9943923950195312
+        },
+        {
+          "text": "Tim Penyusun. (2016). Pendidikan Pancasila untuk Perguruan Tinggi. Jakarta: Direktorat",
+          "confidence": 0.9940492510795593
+        },
+        {
+          "text": "Jenderal Pembelajaran dan Kemahasiswaan Kementerian Riset, Teknologi, dan",
+          "confidence": 0.9938859343528748
+        },
+        {
+          "text": "Pendidikan Tinggi.",
+          "confidence": 0.999599039554596
+        },
+        {
+          "text": "20",
+          "confidence": 0.8222082853317261
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "text": "21",
+      "lines": [
+        {
+          "text": "21",
+          "confidence": 0.9998766183853149
+        }
+      ]
+    }
+  ]
+}
