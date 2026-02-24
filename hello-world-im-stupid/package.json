@@ -1,0 +1,28 @@
+{
+  "name": "hello-world-im-stupid",
+  "version": "1.0.0",
+  "description": "i know im stupid. no one care about you, if you felt like that, then you dumb fool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarceuProject/OSS-HUB.git#main"
+  },
+  "keywords": [
+    "idk",
+    "maybe",
+    "ur",
+    "ex"
+  ],
+  "author": "L5Dx (m.zundap@yandex.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/WarceuProject/OSS-HUB/issues"
+  },
+  "homepage": "https://github.com/WarceuProject/OSS-HUB/tree/main#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.6"
+  }
+}
