@@ -1,0 +1,20 @@
+fastapi
+<<<<<<< HEAD
+uvicorn[standard]
+paddlepaddle==2.6.2
+paddleocr==2.7.3
+numpy==1.26.4
+opencv-python==4.6.0.66
+pillow>=10.0.0
+pdf2image
+=======
+uvicorn
+pillow
+numpy
+torch
+torchvision
+opencv-python
+realesrgan
+gfpgan
+>>>>>>> sumber-sso/Encancher-image
+python-multipart
