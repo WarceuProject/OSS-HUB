@@ -27,7 +27,7 @@ model = RRDBNet(
 )
 
 upsampler = RealESRGANer(
-    scale=4,
+    scale=6,
     model_path="weights/RealESRGAN_x4plus.pth",
     model=model,
     tile=0,
@@ -43,9 +43,9 @@ upsampler = RealESRGANer(
 
 face_enhancer = GFPGANer(
     model_path="weights/GFPGANv1.3.pth",
-    upscale=2,
+    upscale=4,
     arch="clean",
-    channel_multiplier=2,
+    channel_multiplier=4,
     bg_upsampler=upsampler,
 )
 
@@ -89,7 +89,7 @@ async def enhance(file: UploadFile = File(...)):
 @app.post("/denoise")
 async def denoise(file: UploadFile = File(...)):
     img = pil_to_np(await file.read())
-    output, _ = upsampler.enhance(img, denoise_strength=0.5)
+    output, _ = upsampler.enhance(img)
     return np_to_response(output)
 
 #################################
