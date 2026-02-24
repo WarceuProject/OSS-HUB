@@ -1,5 +1,14 @@
 .venv/
+<<<<<<< HEAD
 .git/
 __pycache__/
 tm.png
 response_1771816462629.json
+=======
+__pycache__/
+weights/
+gfpgan/weights/
+*.pth
+*.ckpt
+*.bin
+>>>>>>> sumber-sso/Encancher-image
